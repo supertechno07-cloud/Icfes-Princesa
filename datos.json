@@ -57,8 +57,8 @@
   "respuestas": {
     "1774842287724": "B"
   },
-  "resultadosEnviados": false,
-  "tsRespuestas": null,
-  "_ts": 1774842414964,
+  "resultadosEnviados": true,
+  "tsRespuestas": "2026-03-30T03:46:58.480Z",
+  "_ts": 1774842418485,
   "_v": 1
 }
