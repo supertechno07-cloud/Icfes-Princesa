@@ -1,20 +1,20 @@
 {
   "_v": 1,
-  "_ts": 1774842287724,
+  "_ts": 1774842292672,
   "pin": "1234",
   "preguntas": [
     {
       "id": 1774842287724,
       "materia": "otra",
-      "enunciado": "",
+      "enunciado": "s",
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "s"
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "s"
         },
         {
           "letra": "C",
@@ -22,7 +22,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "s"
         }
       ],
       "correcta": "A",
