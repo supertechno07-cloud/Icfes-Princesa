@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843388819,
+  "_ts": 1774843393828,
   "pin": "1214",
   "preguntas": [
     {
@@ -66,7 +66,7 @@
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "No, porque es posible obtener un precio menor eligiendo la franja 2 en lugar de la 3."
         },
         {
           "letra": "C",
