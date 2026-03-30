@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843320978,
+  "_ts": 1774843323595,
   "pin": "1214",
   "preguntas": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "id": 1774843320978,
-      "materia": "otra",
+      "materia": "matematicas",
       "enunciado": "",
       "opciones": [
         {
