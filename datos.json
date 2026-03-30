@@ -1,12 +1,12 @@
 {
   "_v": 1,
-  "_ts": 1774844926598,
+  "_ts": 1774844934796,
   "pin": "1214",
   "preguntas": [
     {
       "id": 1774842963809,
       "materia": "matematicas",
-      "enunciado": "Un sistema de transporte masivo tiene varias estaciones (E1, E2,…) sobre una avenida. En\ncondiciones normales, entre dos estaciones consecutivas, un bus se demora 4 minutos y en\ncada parada, 30 segundos. En la figura, los círculos sombreados representan las paradas\nde cada ruta (R1, R2,...).",
+      "enunciado": "Un sistema de transporte masivo tiene varias estaciones (E1, E2,…) sobre una avenida. En\ncondiciones normales, entre dos estaciones consecutivas, un bus se demora 4 minutos y en\ncada parada, 30 segundos. En la figura, los círculos sombreados representan las paradas\nde cada ruta (R1, R2,...).\n\nUn usuario que desea ir de E1 a E10 en el menor tiempo, determinó, con base en la figura,\nque la ruta que más le convenía tomar era R2 y estimó el tiempo que tardaría viajando en\nel bus así:",
       "opciones": [
         {
           "letra": "A",
