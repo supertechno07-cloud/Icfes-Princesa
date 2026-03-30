@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843323595,
+  "_ts": 1774843329473,
   "pin": "1214",
   "preguntas": [
     {
@@ -32,7 +32,7 @@
     {
       "id": 1774843320978,
       "materia": "matematicas",
-      "enunciado": "",
+      "enunciado": "Una persona en Colombia tiene inversiones en dólares con ganancia del 3% mensual y tasa de cambio constante ($2.000 por dólar). Un amigo asegura que en pesos la ganancia también será del 3%. La afirmación es:",
       "opciones": [
         {
           "letra": "A",
