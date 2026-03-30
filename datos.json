@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843347863,
+  "_ts": 1774843353711,
   "pin": "1214",
   "preguntas": [
     {
@@ -48,7 +48,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Incorrecta, el incremento será mayor en pesos."
         }
       ],
       "correcta": "A",
