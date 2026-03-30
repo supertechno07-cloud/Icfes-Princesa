@@ -1,12 +1,12 @@
 {
   "_v": 1,
-  "_ts": 1774842989470,
+  "_ts": 1774842994171,
   "pin": "1214",
   "preguntas": [
     {
       "id": 1774842963809,
       "materia": "otra",
-      "enunciado": "",
+      "enunciado": "f",
       "opciones": [
         {
           "letra": "A",
