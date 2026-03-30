@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843329473,
+  "_ts": 1774843338135,
   "pin": "1214",
   "preguntas": [
     {
@@ -36,7 +36,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "Correcta, sin importar la tasa de cambio."
         },
         {
           "letra": "B",
