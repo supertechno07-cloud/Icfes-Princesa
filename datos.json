@@ -1,10 +1,12 @@
 {
+  "_v": 1,
+  "_ts": 1774845061650,
   "pin": "1214",
   "preguntas": [
     {
       "id": 1774842963809,
       "materia": "matematicas",
-      "enunciado": "Un sistema de transporte masivo tiene varias estaciones (E1, E2,â¦) sobre una avenida. En\ncondiciones normales, entre dos estaciones consecutivas, un bus se demora 4 minutos y en\ncada parada, 30 segundos. En la figura, los cÃ­rculos sombreados representan las paradas\nde cada ruta (R1, R2,...).\n\nUn usuario que desea ir de E1 a E10 en el menor tiempo, determinÃ³, con base en la figura,\nque la ruta que mÃ¡s le convenÃ­a tomar era R2 y estimÃ³ el tiempo que tardarÃ­a viajando en\nel bus asÃ­:",
+      "enunciado": "Un sistema de transporte masivo tiene varias estaciones (E1, E2,Ã¢ÂÂ¦) sobre una avenida. En\ncondiciones normales, entre dos estaciones consecutivas, un bus se demora 4 minutos y en\ncada parada, 30 segundos. En la figura, los cÃÂ­rculos sombreados representan las paradas\nde cada ruta (R1, R2,...).\n\nUn usuario que desea ir de E1 a E10 en el menor tiempo, determinÃÂ³, con base en la figura,\nque la ruta que mÃÂ¡s le convenÃÂ­a tomar era R2 y estimÃÂ³ el tiempo que tardarÃÂ­a viajando en\nel bus asÃÂ­:",
       "opciones": [
         {
           "letra": "A",
@@ -30,7 +32,7 @@
     {
       "id": 1774843320978,
       "materia": "matematicas",
-      "enunciado": "Una persona en Colombia tiene inversiones en dÃÂÃÂ³lares con ganancia del 3% mensual y tasa de cambio constante ($2.000 por dÃÂÃÂ³lar). Un amigo asegura que en pesos la ganancia tambiÃÂÃÂ©n serÃÂÃÂ¡ del 3%. La afirmaciÃÂÃÂ³n es:",
+      "enunciado": "Una persona que vive en Colombia tiene inversiones en dólares en Estados Unidos, y sabe\nque la tasa de cambio del dólar respecto al peso colombiano se mantendrá constante este\nmes, siendo 1 dólar equivalente a 2.000 pesos colombianos y que su inversión, en dólares,\nle dará ganancias del 3 % en el mismo periodo. Un amigo le asegura que en pesos sus\nganancias también serán del 3 %.\nLa afirmación de su amigo es",
       "opciones": [
         {
           "letra": "A",
@@ -38,15 +40,15 @@
         },
         {
           "letra": "B",
-          "texto": "Incorrecta, debe conocerse el valor exacto de la inversiÃÂÃÂ³n."
+          "texto": "Incorrecta, debe conocerse el valor exacto de la inversiÃÂÃÂÃÂÃÂ³n."
         },
         {
           "letra": "C",
-          "texto": "Correcta, el 3% es una proporciÃÂÃÂ³n fija si la tasa es constante."
+          "texto": "Correcta, el 3% es una proporciÃÂÃÂÃÂÃÂ³n fija si la tasa es constante."
         },
         {
           "letra": "D",
-          "texto": "Incorrecta, el incremento serÃÂÃÂ¡ mayor en pesos."
+          "texto": "Incorrecta, el incremento serÃÂÃÂÃÂÃÂ¡ mayor en pesos."
         }
       ],
       "correcta": "C",
@@ -56,11 +58,11 @@
     {
       "id": 1774843361182,
       "materia": "matematicas",
-      "enunciado": "Un colegio organiza un viaje para 140 estudiantes en 3 grupos con diferentes franjas horarias y precios. Las directivas eligen las franjas 1 (50 cupos), 3 (30 cupos) y 4 (60 cupos). ÃÂÃÂ¿Garantiza esto el menor precio?",
+      "enunciado": "Un colegio organiza un viaje para 140 estudiantes en 3 grupos con diferentes franjas horarias y precios. Las directivas eligen las franjas 1 (50 cupos), 3 (30 cupos) y 4 (60 cupos). ÃÂÃÂÃÂÃÂ¿Garantiza esto el menor precio?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "SÃÂÃÂ­, porque suman exactamente 140 estudiantes."
+          "texto": "SÃÂÃÂÃÂÃÂ­, porque suman exactamente 140 estudiantes."
         },
         {
           "letra": "B",
@@ -68,11 +70,11 @@
         },
         {
           "letra": "C",
-          "texto": "SÃÂÃÂ­, incluyÃÂÃÂ³ la franja 1 de menor precio."
+          "texto": "SÃÂÃÂÃÂÃÂ­, incluyÃÂÃÂÃÂÃÂ³ la franja 1 de menor precio."
         },
         {
           "letra": "D",
-          "texto": "No, los de la franja 3 pagan mÃÂÃÂ¡s."
+          "texto": "No, los de la franja 3 pagan mÃÂÃÂÃÂÃÂ¡s."
         }
       ],
       "correcta": "A",
@@ -86,7 +88,5 @@
     "1774843320978": "B"
   },
   "resultadosEnviados": true,
-  "tsRespuestas": "2026-03-30T04:30:08.127Z",
-  "_ts": 1774845008128,
-  "_v": 1
+  "tsRespuestas": "2026-03-30T04:30:08.127Z"
 }
