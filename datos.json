@@ -1,36 +1,8 @@
 {
-  "_v": 1,
-  "_ts": 1774837934771,
-  "pin": "1214",
+  "pin": "1234",
   "preguntas": [
     {
-      "id": 1774837885495,
-      "materia": "otra",
-      "enunciado": "Mi princesa es",
-      "opciones": [
-        {
-          "letra": "A",
-          "texto": "Amargada"
-        },
-        {
-          "letra": "B",
-          "texto": "Amorosa"
-        },
-        {
-          "letra": "C",
-          "texto": "Hermosa"
-        },
-        {
-          "letra": "D",
-          "texto": "Perfecta"
-        }
-      ],
-      "correcta": "A",
-      "imagen_b64": null,
-      "imagen_desc": ""
-    },
-    {
-      "id": 1774837909168,
+      "id": 1774838045549,
       "materia": "otra",
       "enunciado": "",
       "opciones": [
@@ -56,9 +28,8 @@
       "imagen_desc": ""
     }
   ],
-  "respuestas": {
-    "1774837885495": "B"
-  },
-  "resultadosEnviados": true,
-  "tsRespuestas": "2026-03-30T02:32:14.770Z"
+  "respuestas": {},
+  "resultadosEnviados": false,
+  "tsRespuestas": null,
+  "_ts": 1774838045549
 }
