@@ -1,12 +1,12 @@
 {
   "_v": 1,
-  "_ts": 1774843289657,
+  "_ts": 1774843297486,
   "pin": "1214",
   "preguntas": [
     {
       "id": 1774842963809,
       "materia": "matematicas",
-      "enunciado": "",
+      "enunciado": "Un sistema de transporte masivo tiene varias estaciones (E1, E2,...) sobre una avenida. Entre dos estaciones consecutivas, un bus se demora 4 minutos y en cada parada, 30 segundos. Un usuario que desea ir de E1 a E10 determinó que la ruta R2 era la mejor y estimó el tiempo así:\nI. Contó la cantidad de tramos: 10.\nII. Multiplicó 10 por 4 minutos: 40 minutos.\nIII. Sumó 30 segundos por la parada en E6: 40,5 minutos.\n¿En qué paso(s) es incorrecto el procedimiento?",
       "opciones": [
         {
           "letra": "A",
