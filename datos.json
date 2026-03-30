@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843369669,
+  "_ts": 1774843384239,
   "pin": "1214",
   "preguntas": [
     {
@@ -58,7 +58,7 @@
     {
       "id": 1774843361182,
       "materia": "matematicas",
-      "enunciado": "",
+      "enunciado": "Un colegio organiza un viaje para 140 estudiantes en 3 grupos con diferentes franjas horarias y precios. Las directivas eligen las franjas 1 (50 cupos), 3 (30 cupos) y 4 (60 cupos). ¿Garantiza esto el menor precio?",
       "opciones": [
         {
           "letra": "A",
