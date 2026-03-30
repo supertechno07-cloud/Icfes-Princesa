@@ -1,12 +1,12 @@
 {
   "_v": 1,
-  "_ts": 1774843534824,
+  "_ts": 1774843715644,
   "pin": "1214",
   "preguntas": [
     {
       "id": 1774842963809,
       "materia": "matematicas",
-      "enunciado": "Un sistema de transporte masivo tiene varias estaciones (E1, E2,…) sobre una avenida. En\ncondiciones normales, entre dos estaciones consecutivas, un bus se demora 4 minutos y en\ncada parada, 30 segundos. En la figura, los círculos sombreados representan las paradas\nde cada ruta (R1, R2,...).\n\n\n\n\nUn usuario que desea ir de E1 a E10 en el menor tiempo, determinó, con base en la figura,\nque la ruta que más le convenía tomar era R2 y estimó el tiempo que tardaría viajando en\nel bus así:",
+      "enunciado": "Un sistema de transporte masivo tiene varias estaciones (E1, E2,â¦) sobre una avenida. En\ncondiciones normales, entre dos estaciones consecutivas, un bus se demora 4 minutos y en\ncada parada, 30 segundos. En la figura, los cÃ­rculos sombreados representan las paradas\nde cada ruta (R1, R2,...).\n\n\n\n\nUn usuario que desea ir de E1 a E10 en el menor tiempo, determinÃ³, con base en la figura,\nque la ruta que mÃ¡s le convenÃ­a tomar era R2 y estimÃ³ el tiempo que tardarÃ­a viajando en\nel bus asÃ­:",
       "opciones": [
         {
           "letra": "A",
@@ -32,7 +32,7 @@
     {
       "id": 1774843320978,
       "materia": "matematicas",
-      "enunciado": "Una persona en Colombia tiene inversiones en dÃ³lares con ganancia del 3% mensual y tasa de cambio constante ($2.000 por dÃ³lar). Un amigo asegura que en pesos la ganancia tambiÃ©n serÃ¡ del 3%. La afirmaciÃ³n es:",
+      "enunciado": "Una persona en Colombia tiene inversiones en dÃÂ³lares con ganancia del 3% mensual y tasa de cambio constante ($2.000 por dÃÂ³lar). Un amigo asegura que en pesos la ganancia tambiÃÂ©n serÃÂ¡ del 3%. La afirmaciÃÂ³n es:",
       "opciones": [
         {
           "letra": "A",
@@ -40,15 +40,15 @@
         },
         {
           "letra": "B",
-          "texto": "Incorrecta, debe conocerse el valor exacto de la inversiÃ³n."
+          "texto": "Incorrecta, debe conocerse el valor exacto de la inversiÃÂ³n."
         },
         {
           "letra": "C",
-          "texto": "Correcta, el 3% es una proporciÃ³n fija si la tasa es constante."
+          "texto": "Correcta, el 3% es una proporciÃÂ³n fija si la tasa es constante."
         },
         {
           "letra": "D",
-          "texto": "Incorrecta, el incremento serÃ¡ mayor en pesos."
+          "texto": "Incorrecta, el incremento serÃÂ¡ mayor en pesos."
         }
       ],
       "correcta": "C",
@@ -58,11 +58,11 @@
     {
       "id": 1774843361182,
       "materia": "matematicas",
-      "enunciado": "Un colegio organiza un viaje para 140 estudiantes en 3 grupos con diferentes franjas horarias y precios. Las directivas eligen las franjas 1 (50 cupos), 3 (30 cupos) y 4 (60 cupos). Â¿Garantiza esto el menor precio?",
+      "enunciado": "Un colegio organiza un viaje para 140 estudiantes en 3 grupos con diferentes franjas horarias y precios. Las directivas eligen las franjas 1 (50 cupos), 3 (30 cupos) y 4 (60 cupos). ÃÂ¿Garantiza esto el menor precio?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "SÃ­, porque suman exactamente 140 estudiantes."
+          "texto": "SÃÂ­, porque suman exactamente 140 estudiantes."
         },
         {
           "letra": "B",
@@ -70,11 +70,11 @@
         },
         {
           "letra": "C",
-          "texto": "SÃ­, incluyÃ³ la franja 1 de menor precio."
+          "texto": "SÃÂ­, incluyÃÂ³ la franja 1 de menor precio."
         },
         {
           "letra": "D",
-          "texto": "No, los de la franja 3 pagan mÃ¡s."
+          "texto": "No, los de la franja 3 pagan mÃÂ¡s."
         }
       ],
       "correcta": "A",
@@ -83,6 +83,6 @@
     }
   ],
   "respuestas": {},
-  "resultadosEnviados": false,
-  "tsRespuestas": null
+  "resultadosEnviados": true,
+  "tsRespuestas": "2026-03-30T04:08:35.644Z"
 }
