@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843311637,
+  "_ts": 1774843317028,
   "pin": "1214",
   "preguntas": [
     {
@@ -22,7 +22,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "II y III solamente."
         }
       ],
       "correcta": "A",
