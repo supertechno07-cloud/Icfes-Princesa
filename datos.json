@@ -1,64 +1,9 @@
 {
+  "_v": 1,
+  "_ts": 1774842928311,
   "pin": "1234",
-  "preguntas": [
-    {
-      "id": 1774842287724,
-      "materia": "otra",
-      "enunciado": "s",
-      "opciones": [
-        {
-          "letra": "A",
-          "texto": "s"
-        },
-        {
-          "letra": "B",
-          "texto": "s"
-        },
-        {
-          "letra": "C",
-          "texto": ""
-        },
-        {
-          "letra": "D",
-          "texto": "s"
-        }
-      ],
-      "correcta": "A",
-      "imagen_b64": null,
-      "imagen_desc": ""
-    },
-    {
-      "id": 1774842297526,
-      "materia": "otra",
-      "enunciado": "",
-      "opciones": [
-        {
-          "letra": "A",
-          "texto": ""
-        },
-        {
-          "letra": "B",
-          "texto": ""
-        },
-        {
-          "letra": "C",
-          "texto": ""
-        },
-        {
-          "letra": "D",
-          "texto": ""
-        }
-      ],
-      "correcta": "A",
-      "imagen_b64": null,
-      "imagen_desc": ""
-    }
-  ],
-  "respuestas": {
-    "1774842287724": "B"
-  },
-  "resultadosEnviados": true,
-  "tsRespuestas": "2026-03-30T03:46:58.480Z",
-  "_ts": 1774842418485,
-  "_v": 1
+  "preguntas": [],
+  "respuestas": {},
+  "resultadosEnviados": false,
+  "tsRespuestas": null
 }
