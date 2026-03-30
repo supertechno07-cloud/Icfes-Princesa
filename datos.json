@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774845061650,
+  "_ts": 1774845090913,
   "pin": "1214",
   "preguntas": [
     {
@@ -40,7 +40,7 @@
         },
         {
           "letra": "B",
-          "texto": "Incorrecta, debe conocerse el valor exacto de la inversiÃÂÃÂÃÂÃÂ³n."
+          "texto": "incorrecta, pues debería conocerse el valor exacto de la inversión para poder calcular la cantidad de dinero que ganará."
         },
         {
           "letra": "C",
