@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843342095,
+  "_ts": 1774843347863,
   "pin": "1214",
   "preguntas": [
     {
@@ -44,7 +44,7 @@
         },
         {
           "letra": "C",
-          "texto": ""
+          "texto": "Correcta, el 3% es una proporción fija si la tasa es constante."
         },
         {
           "letra": "D",
