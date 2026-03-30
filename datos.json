@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774837909168,
+  "_ts": 1774837917037,
   "pin": "1214",
   "preguntas": [
     {
@@ -56,7 +56,9 @@
       "imagen_desc": ""
     }
   ],
-  "respuestas": {},
+  "respuestas": {
+    "1774837885495": "B"
+  },
   "resultadosEnviados": false,
   "tsRespuestas": null
 }
