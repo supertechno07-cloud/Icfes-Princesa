@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843384239,
+  "_ts": 1774843388819,
   "pin": "1214",
   "preguntas": [
     {
@@ -62,7 +62,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "Sí, porque suman exactamente 140 estudiantes."
         },
         {
           "letra": "B",
