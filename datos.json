@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774837903946,
+  "_ts": 1774837909168,
   "pin": "1214",
   "preguntas": [
     {
@@ -22,7 +22,33 @@
         },
         {
           "letra": "D",
-          "texto": "Pe"
+          "texto": "Perfecta"
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774837909168,
+      "materia": "otra",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
