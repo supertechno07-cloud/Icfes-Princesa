@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843398877,
+  "_ts": 1774843405916,
   "pin": "1214",
   "preguntas": [
     {
@@ -74,7 +74,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "No, los de la franja 3 pagan más."
         }
       ],
       "correcta": "A",
