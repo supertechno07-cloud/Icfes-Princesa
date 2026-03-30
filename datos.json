@@ -1,12 +1,12 @@
 {
   "_v": 1,
-  "_ts": 1774837889731,
+  "_ts": 1774837892288,
   "pin": "1214",
   "preguntas": [
     {
       "id": 1774837885495,
       "materia": "otra",
-      "enunciado": "Mi princesa ",
+      "enunciado": "Mi princesa es",
       "opciones": [
         {
           "letra": "A",
