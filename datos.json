@@ -1,8 +1,35 @@
 {
   "_v": 1,
-  "_ts": 1774842937694,
+  "_ts": 1774842963809,
   "pin": "1214",
-  "preguntas": [],
+  "preguntas": [
+    {
+      "id": 1774842963809,
+      "materia": "otra",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    }
+  ],
   "respuestas": {},
   "resultadosEnviados": false,
   "tsRespuestas": null
