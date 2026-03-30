@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774843338135,
+  "_ts": 1774843342095,
   "pin": "1214",
   "preguntas": [
     {
@@ -40,7 +40,7 @@
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "Incorrecta, debe conocerse el valor exacto de la inversión."
         },
         {
           "letra": "C",
