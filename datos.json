@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774837901228,
+  "_ts": 1774837903946,
   "pin": "1214",
   "preguntas": [
     {
@@ -18,11 +18,11 @@
         },
         {
           "letra": "C",
-          "texto": "Herm"
+          "texto": "Hermosa"
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Pe"
         }
       ],
       "correcta": "A",
