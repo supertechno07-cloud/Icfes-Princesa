@@ -1,12 +1,12 @@
 {
   "_v": 1,
-  "_ts": 1774843511345,
+  "_ts": 1774843520926,
   "pin": "1214",
   "preguntas": [
     {
       "id": 1774842963809,
       "materia": "matematicas",
-      "enunciado": "Un sistema de transporte masivo tiene varias estaciones (E1, E2,…) sobre una avenida. En\ncondiciones normales, entre dos estaciones consecutivas, un bus se demora 4 minutos y en\ncada parada, 30 segundos. En la figura, los círculos sombreados representan las paradas\nde cada ruta (R1, R2,...).I. ContÃ³ la cantidad de tramos: 10.\nII. MultiplicÃ³ 10 por 4 minutos: 40 minutos.\nIII. SumÃ³ 30 segundos por la parada en E6: 40,5 minutos.\nÂ¿En quÃ© paso(s) es incorrecto el procedimiento?",
+      "enunciado": "Un sistema de transporte masivo tiene varias estaciones (E1, E2,…) sobre una avenida. En\ncondiciones normales, entre dos estaciones consecutivas, un bus se demora 4 minutos y en\ncada parada, 30 segundos. En la figura, los círculos sombreados representan las paradas\nde cada ruta (R1, R2,...).",
       "opciones": [
         {
           "letra": "A",
