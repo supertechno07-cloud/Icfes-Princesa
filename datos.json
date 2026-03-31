@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992283109,
+  "_ts": 1774992287702,
   "pin": "1214",
   "preguntas": [
     {
@@ -1388,7 +1388,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "Disminuye de 30 L a 25 L"
         },
         {
           "letra": "B",
