@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774976918443,
+  "_ts": 1774976923460,
   "pin": "1214",
   "preguntas": [
     {
@@ -552,7 +552,7 @@
     {
       "id": 1774976918127,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "Los datos que se presentan en el texto se han tomado de",
       "opciones": [
         {
           "letra": "A",
