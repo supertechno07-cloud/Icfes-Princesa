@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977445162,
+  "_ts": 1774977448538,
   "pin": "1214",
   "preguntas": [
     {
@@ -820,7 +820,7 @@
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "debe tener más de 50 años de edad."
         },
         {
           "letra": "C",
