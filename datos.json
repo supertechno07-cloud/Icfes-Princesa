@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774926322158,
+  "_ts": 1774926337277,
   "pin": "1214",
   "preguntas": [
     {
@@ -101,6 +101,32 @@
         {
           "letra": "D",
           "texto": "Sí, porque la existencia de los partidos, permite representar los intereses de diversos sectores de la  sociedad."
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774926337121,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
