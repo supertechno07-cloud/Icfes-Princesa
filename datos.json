@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977484914,
+  "_ts": 1774977491680,
   "pin": "1214",
   "preguntas": [
     {
@@ -864,7 +864,7 @@
     {
       "id": 1774977484914,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "De acuerdo con el primer párrafo, Fermina Daza quiere",
       "opciones": [
         {
           "letra": "A",
