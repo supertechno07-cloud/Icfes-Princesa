@@ -1,12 +1,12 @@
 {
   "_v": 1,
-  "_ts": 1774918456558,
+  "_ts": 1774918381178,
   "pin": "1214",
   "preguntas": [
     {
-      "id": 1774918456558,
+      "id": 1774918338653,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "Hola",
       "opciones": [
         {
           "letra": "A",
