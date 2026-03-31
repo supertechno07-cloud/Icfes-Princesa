@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930781211,
+  "_ts": 1774930786851,
   "pin": "1214",
   "preguntas": [
     {
@@ -36,7 +36,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": "El derecho al libre acceso a la informaciÃ³n."
+          "texto": "El derecho al libre acceso a la información."
         },
         {
           "letra": "B",
