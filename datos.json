@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992494652,
+  "_ts": 1774992499564,
   "pin": "1214",
   "preguntas": [
     {
@@ -1452,7 +1452,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "hay dos fuerzas que van hacia la derecha mientras que solamente una fuerza va hacia la izquierda. "
         }
       ],
       "correcta": "A",
