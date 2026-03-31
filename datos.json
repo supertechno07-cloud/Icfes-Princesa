@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977357490,
+  "_ts": 1774977362176,
   "pin": "1214",
   "preguntas": [
     {
@@ -750,7 +750,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Los humanos han comenzado a advertir la insostenibilidad de la filosofía de la dilución."
         }
       ],
       "correcta": "A",
