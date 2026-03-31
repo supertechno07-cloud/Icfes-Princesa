@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977338212,
+  "_ts": 1774977346890,
   "pin": "1214",
   "preguntas": [
     {
@@ -738,7 +738,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "La respuesta al problema de la contaminación es la dilución."
         },
         {
           "letra": "B",
