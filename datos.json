@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988235779,
+  "_ts": 1774988240052,
   "pin": "1214",
   "preguntas": [
     {
@@ -1128,7 +1128,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "La frecuencia de la onda."
         },
         {
           "letra": "B",
