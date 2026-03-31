@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988243666,
+  "_ts": 1774988247119,
   "pin": "1214",
   "preguntas": [
     {
@@ -1136,7 +1136,7 @@
         },
         {
           "letra": "C",
-          "texto": ""
+          "texto": "La velocidad de la onda."
         },
         {
           "letra": "D",
