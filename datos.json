@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992251242,
+  "_ts": 1774992269736,
   "pin": "1214",
   "preguntas": [
     {
@@ -1384,7 +1384,7 @@
     {
       "id": 1774992251242,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": " \nEn un laboratorio se estudia el comportamiento del volumen de un gas ideal al variar su temperatura, obteniendo \nla siguiente gráfica:",
       "opciones": [
         {
           "letra": "A",
