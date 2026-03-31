@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977371578,
+  "_ts": 1774977376093,
   "pin": "1214",
   "preguntas": [
     {
@@ -760,7 +760,7 @@
     {
       "id": 1774977371551,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "El enunciado “Los científicos han descubierto 400 zonas muertas con estas características por todo el planeta”",
       "opciones": [
         {
           "letra": "A",
