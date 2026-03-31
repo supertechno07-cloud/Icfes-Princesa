@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992499564,
+  "_ts": 1774992507093,
   "pin": "1214",
   "preguntas": [
     {
@@ -1453,6 +1453,32 @@
         {
           "letra": "D",
           "texto": "hay dos fuerzas que van hacia la derecha mientras que solamente una fuerza va hacia la izquierda. "
+        }
+      ],
+      "correcta": "C",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774992506952,
+      "materia": "ciencias",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
