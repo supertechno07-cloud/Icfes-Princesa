@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774934504130,
+  "_ts": 1774934593161,
   "pin": "1214",
   "preguntas": [
     {
@@ -680,16 +680,11 @@
       "imagen_desc": ""
     }
   ],
-  "respuestas": {
-    "1774918338653": "A",
-    "1774932939365": "A",
-    "1774932077564": "B",
-    "1774932137279": "A"
-  },
-  "resultadosEnviados": true,
-  "tsRespuestas": "2026-03-31T05:21:17.904Z",
+  "respuestas": {},
+  "resultadosEnviados": false,
+  "tsRespuestas": null,
   "tiempoInicio": null,
-  "tiempoFin": 1774934459562,
-  "cronoSegAcum": 54,
+  "tiempoFin": null,
+  "cronoSegAcum": 0,
   "cronoInicioSesion": null
 }
