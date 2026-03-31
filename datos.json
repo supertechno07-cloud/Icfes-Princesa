@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977405217,
+  "_ts": 1774977408755,
   "pin": "1214",
   "preguntas": [
     {
@@ -790,7 +790,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "Evidencia científica."
         },
         {
           "letra": "B",
