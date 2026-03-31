@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991763930,
+  "_ts": 1774991767840,
   "pin": "1214",
   "preguntas": [
     {
@@ -1348,7 +1348,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "no tenía en cuenta que el átomo ha evolucionado en el tiempo."
         }
       ],
       "correcta": "A",
