@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929854674,
+  "_ts": 1774929860343,
   "pin": "1214",
   "preguntas": [
     {
@@ -266,7 +266,7 @@
     {
       "id": 1774929854674,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "Un informe de la UNICEF sobre los pueblos indígenas en Colombia señala lo siguiente:\n“La tierra para los indígenas tiene un significado amplio, que comprende no solo la superficie sino los recursos \nnaturales –flora, fauna, ríos, lagos, etc.– que hay en ella. En contraste con el concepto de propiedad individual, \npropio de la cultura occidental, la tierra y los recursos son, generalmente, poseídos y utilizados en forma \ncomunitaria por los indígenas”.\nAnalizando el contenido de este fragmento, se puede afirmar que hay diferencias culturales entre los pueblos \nindígenas y otros grupos sociales que habitan en Colombia, porque los indígenas ",
       "opciones": [
         {
           "letra": "A",
