@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977398600,
+  "_ts": 1774977405217,
   "pin": "1214",
   "preguntas": [
     {
@@ -786,7 +786,7 @@
     {
       "id": 1774977398600,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "¿Qué recurso emplean los autores del texto para reforzar su tesis principal?",
       "opciones": [
         {
           "letra": "A",
