@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991712553,
+  "_ts": 1774991723239,
   "pin": "1214",
   "preguntas": [
     {
@@ -1314,7 +1314,7 @@
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "El número de mariposas es máximo a los 2.000 metros de altitud."
         },
         {
           "letra": "C",
