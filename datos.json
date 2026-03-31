@@ -1253,10 +1253,10 @@
   "respuestas": {},
   "resultadosEnviados": false,
   "tsRespuestas": null,
-  "_ts": 1774991344838,
+  "_ts": 1774991376598,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": null,
   "cronoSegAcum": 1986,
-  "cronoInicioSesion": null
+  "cronoInicioSesion": 1774991376598
 }
