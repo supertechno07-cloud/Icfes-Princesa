@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992276559,
+  "_ts": 1774992283109,
   "pin": "1214",
   "preguntas": [
     {
@@ -1384,7 +1384,7 @@
     {
       "id": 1774992251242,
       "materia": "ciencias",
-      "enunciado": " \nEn un laboratorio se estudia el comportamiento del volumen de un gas ideal al variar su temperatura, obteniendo \nla siguiente gráfica:",
+      "enunciado": " \nEn un laboratorio se estudia el comportamiento del volumen de un gas ideal al variar su temperatura, obteniendo \nla siguiente gráfica:\n\nTeniendo en cuenta la información de la gráfica, si la temperatura aumenta de -153 °C a -33 °C, ¿qué pasa \ncon el volumen del gas?",
       "opciones": [
         {
           "letra": "A",
