@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991697976,
+  "_ts": 1774991702601,
   "pin": "1214",
   "preguntas": [
     {
@@ -1310,7 +1310,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "El número de mariposas a los 1.200 metros es menor que a 1.600 metros."
         },
         {
           "letra": "B",
