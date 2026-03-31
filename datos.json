@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992804600,
+  "_ts": 1774992809417,
   "pin": "1214",
   "preguntas": [
     {
@@ -1526,7 +1526,7 @@
         },
         {
           "letra": "C",
-          "texto": ""
+          "texto": "El eje Y debe tener porcentajes positivos y porcentajes negativos."
         },
         {
           "letra": "D",
