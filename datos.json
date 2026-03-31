@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977032024,
+  "_ts": 1774977047152,
   "pin": "1214",
   "preguntas": [
     {
@@ -578,7 +578,7 @@
     {
       "id": 1774976946748,
       "materia": "lectura",
-      "enunciado": "Considere la siguiente información que no está en el texto anterior:",
+      "enunciado": "Considere la siguiente información que no está en el texto anterior:\n“No se conocen casos de transmisión de enfermedades o parásitos a humanos derivados del consumo de \ninsectos (siempre que los insectos hayan sido manipulados en las mismas condiciones de higiene que cualquier \notro alimento)” [FAO, 2013]\n¿Con cuál de los apartados del texto “INSECTOS A LA CARTA” está relacionada la anterior información?",
       "opciones": [
         {
           "letra": "A",
