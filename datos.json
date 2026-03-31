@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774934598907,
+  "_ts": 1774934600670,
   "pin": "1214",
   "preguntas": [
     {
@@ -609,32 +609,6 @@
         {
           "letra": "A",
           "texto": "w"
-        },
-        {
-          "letra": "B",
-          "texto": ""
-        },
-        {
-          "letra": "C",
-          "texto": ""
-        },
-        {
-          "letra": "D",
-          "texto": ""
-        }
-      ],
-      "correcta": "A",
-      "imagen_b64": null,
-      "imagen_desc": ""
-    },
-    {
-      "id": 1774932939365,
-      "materia": "lectura",
-      "enunciado": "y",
-      "opciones": [
-        {
-          "letra": "A",
-          "texto": "y"
         },
         {
           "letra": "B",
