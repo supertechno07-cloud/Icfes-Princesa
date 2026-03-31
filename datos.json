@@ -1,10 +1,168 @@
 {
+  "_v": 1,
+  "_ts": 1774929080699,
   "pin": "1214",
-  "preguntas": [],
+  "preguntas": [
+    {
+      "id": 1774918338653,
+      "materia": "lectura",
+      "enunciado": "Hola",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "s"
+        },
+        {
+          "letra": "B",
+          "texto": "w"
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774926061422,
+      "materia": "sociales",
+      "enunciado": "En una empresa, uno de los miembros de la junta directiva le dice al gerente general: “Hay un grupo de empleados \nque está inconforme con las políticas laborales que implementamos recientemente. Esto preocupa, porque es un \ngrupo muy activo que, al parecer, está movilizando a varios empleados con el objetivo de conformar un sindicato”. \nAnte esto, el gerente afirmó: “Propongo hablar con ese grupo para comunicarle que aquí están prohibidas las protestas \ny las movilizaciones, y que, si tienen alguna inquietud, será atendida de manera individual con cada empleado”.\n¿Qué derecho constitucional podría ponerse en riesgo con la propuesta del gerente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho al libre acceso a la información."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a la participación política."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a la libertad de creencias."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a la libre asociación"
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774926099005,
+      "materia": "sociales",
+      "enunciado": "Un país afectado por el fenómeno de la corrupción adelanta una serie de debates ciudadanos para solucionar \neste problema. Ante este panorama, se han planteado varias soluciones:-  Desde una dimensión correctiva, se propone endurecer las penas contra los corruptos y que se les \nprohíba de por vida trabajar para el Estado, sin derecho a rebaja de penas.-  Desde una dimensión pedagógica, se propone que en los colegios se dé de manera obligatoria una \nmateria enfocada en la prevención de acciones, actitudes y conductas asociadas a la corrupción.-  Desde una dimensión restaurativa, se propone que cuando una persona haya sido condenada por \nactos de corrupción, si se arrepiente públicamente y le pide perdón a la ciudadanía, podrá ser eximida \nde las sanciones que se le hayan impuesto.\n¿Las tres propuestas de solución son compatibles entre sí?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque ejecutar acciones para sancionar a los corruptos con penas más duras ayuda a que las  acciones pedagógicas prevengan a la ciudadanía para que no cometan actos de corrupción."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque ejecutar acciones para educar a las personas con el fin de prevenir que se cometan actos  de corrupción inválida las accionas punitivas para sancionar a los corruptos con penas más duras."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque una acción restaurativa mediante la cual se le pide perdón a la ciudadanía por haber sido  corrupto refuerza las acciones pedagógicas que pretenden concientizar a las personas sobre la corrupción."
+        },
+        {
+          "letra": "D",
+          "texto": "No, porque las acciones restaurativas en las que se perdona a los corruptos cuando piden excusas  públicamente hacen inviables las acciones punitivas mediante las cuales se endurecen las penas."
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774926266048,
+      "materia": "sociales",
+      "enunciado": "Ante un repentino aumento de los casos de corrupción en los que están vinculados servidores públicos en \ncargos de elección popular, un grupo de ciudadanos propone la eliminación de todos los partidos políticos, a \nexcepción del movimiento político que ellos integran, porque, según ellos, en su agrupación política nunca \nha habido militantes involucrados en actos de corrupción.\n¿Sería un problema para la democracia que esta propuesta se llevara a cabo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, pues en una sociedad democrática lo que se necesita es un partido único que logre acabar con la  corrupción."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pues los políticos de los otros partidos pueden ser reemplazados por empresarios que dirijan mejor  el país."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque al acabarse con la mayoría de partidos, no habrían funcionarios suficientes para ocupar los  puestos del Estado."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, porque la existencia de los partidos, permite representar los intereses de diversos sectores de la  sociedad."
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774926337121,
+      "materia": "sociales",
+      "enunciado": "A continuación, se presenta un fragmento del discurso “Sr. Gorbachov, ¡Haga caer ese muro!” del expresidente \nde Estados Unidos Ronald Reagan, pronunciado en 1987 en Berlín Occidental:\n“Detrás de mí se alza un muro que rodea los sectores libres de esta ciudad, parte de un vasto sistema de barreras que \ndividen todo el continente de Europa. (…) Más al sur, puede que no haya ninguna barrera visible y obvia. Pero sigue \nhabiendo guardias armados y puestos de control; sigue habiendo una restricción al derecho de viajar, sigue siendo un \ninstrumento para imponer sobre los hombres y mujeres comunes el deseo de un Estado totalitario. Sin embargo, es \naquí, en Berlín, donde el muro emerge con mayor claridad; aquí, cortando vuestra ciudad, donde las fotografías de las \nnoticias y las pantallas de televisión han dejado una imprenta brutal de un continente en la mente del mundo”. \n¿Cuál de las siguientes evidencias NO sirve para ampliar la información sobre el muro de Berlín?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El expresidente Ronald Reagan terminó su periodo presidencial en 1989 y murió de neumonía el 5 de junio  de 2004, después de sufrir Alzheimer durante 10 años, lo que debilitó de manera constante su salud."
+        },
+        {
+          "letra": "B",
+          "texto": "Durante la Guerra Fría, la Unión Soviética buscaba garantizar el éxito de la implementación de un Estado socia lista en Alemania; por esta razón, se desarrollaron diferentes políticas tendientes a aislar la RDA de la RFA."
+        },
+        {
+          "letra": "C",
+          "texto": "Al finalizar la Segunda Guerra Mundial en 1945, los soviéticos ocuparon las zonas del este de Europa  que habían defendido, y EE.UU. y sus aliados se mantuvieron en Europa occidental."
+        },
+        {
+          "letra": "D",
+          "texto": "El muro de Berlín dividió la capital alemana hasta 1989: el lado occidental pertenecía a la República Federal  Alemana (RFA) y el lado oriental a la República Democrática Alemana (RDA)."
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774926373156,
+      "materia": "sociales",
+      "enunciado": "En una región semidesértica de Colombia, una empresa minera busca aumentar su explotación de carbón \ny considera realizar la desviación de un río para facilitar el uso del agua y hacer más eficiente la producción. \nEn el municipio más cercano al río se oponen al desvío y señalan que, aunque la actividad económica de \nla población gira en torno a la minería y la población se ha beneficiado del crecimiento de la empresa, no \nestán de acuerdo con esta propuesta, pues podría afectar las necesidades básicas de los habitantes.\nEn esta situación, ¿qué busca cada uno de los actores involucrados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La empresa y los habitantes del municipio buscan aumentar la producción de carbón para mejorar los  ingresos de empresarios y trabajadores, por encima del acceso de agua."
+        },
+        {
+          "letra": "B",
+          "texto": "La empresa y los habitantes del municipio buscan garantizar el acceso al agua potable a todos los  pobladores, por encima del crecimiento de la producción minera."
+        },
+        {
+          "letra": "C",
+          "texto": "La empresa busca aumentar la producción de carbón y los habitantes buscan garantizar el bienestar y  la calidad de vida de la población."
+        },
+        {
+          "letra": "D",
+          "texto": "La empresa busca desviar el río para que otras poblaciones tengan acceso al líquido y los habitantes  buscan que el cauce siga igual."
+        }
+      ],
+      "correcta": "C",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    }
+  ],
   "respuestas": {},
   "resultadosEnviados": false,
   "tsRespuestas": null,
-  "_ts": 1774929069360,
-  "_v": 1,
-  "tiempoInicio": 1774929069360
+  "tiempoInicio": null,
+  "tiempoFin": null
 }
