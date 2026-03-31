@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992790283,
+  "_ts": 1774992795931,
   "pin": "1214",
   "preguntas": [
     {
@@ -1514,7 +1514,7 @@
     {
       "id": 1774992748027,
       "materia": "ciencias",
-      "enunciado": "Unos estudiantes quieren comprobar si las hormigas que viven en los árboles de acacia defienden a estos \ndel ataque de insectos que consumen sus hojas. Para ello, realizan seguimiento a 10 hojas de dos grupos de \nárboles de acacia similares, uno sin hormigas y otro con hormigas. Los resultados de su investigación se \nmuestran en la gráfica.",
+      "enunciado": "Unos estudiantes quieren comprobar si las hormigas que viven en los árboles de acacia defienden a estos \ndel ataque de insectos que consumen sus hojas. Para ello, realizan seguimiento a 10 hojas de dos grupos de \nárboles de acacia similares, uno sin hormigas y otro con hormigas. Los resultados de su investigación se \nmuestran en la gráfica.\n\n¿Cuál de las siguientes opciones es el principal error en la forma como se muestran los resultados obtenidos \npor los estudiantes?",
       "opciones": [
         {
           "letra": "A",
