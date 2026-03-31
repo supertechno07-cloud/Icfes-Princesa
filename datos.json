@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977067528,
+  "_ts": 1774977073489,
   "pin": "1214",
   "preguntas": [
     {
@@ -604,7 +604,7 @@
     {
       "id": 1774977067510,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "Suponga que van a publicarse cuatro informes que tienen los títulos de las opciones de respuesta. ¿Dentro \nde cuál podría incluirse el texto anterior, de manera que el título resulte pertinente? ",
       "opciones": [
         {
           "letra": "A",
