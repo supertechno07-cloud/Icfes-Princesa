@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977457822,
+  "_ts": 1774977463350,
   "pin": "1214",
   "preguntas": [
     {
@@ -838,7 +838,7 @@
     {
       "id": 1774977457821,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "Según el texto, Fermina Daza atraviesa una crisis provocada por",
       "opciones": [
         {
           "letra": "A",
