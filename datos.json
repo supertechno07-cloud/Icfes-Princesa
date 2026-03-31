@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977223116,
+  "_ts": 1774977230899,
   "pin": "1214",
   "preguntas": [
     {
@@ -656,7 +656,7 @@
     {
       "id": 1774977223115,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "Según el texto, el grafeno es diferente del material de las minas de los lápices porque ",
       "opciones": [
         {
           "letra": "A",
