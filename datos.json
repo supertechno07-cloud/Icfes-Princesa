@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929987618,
+  "_ts": 1774929994840,
   "pin": "1214",
   "preguntas": [
     {
@@ -344,7 +344,7 @@
     {
       "id": 1774929987618,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "Un periódico colombiano publicó la siguiente noticia: “Luego de que la autoridad nacional a cargo de las \nlicencias ambientales autorizara la construcción de un hotel ecoturístico dentro del parque Tayrona, territorio \nancestral indígena, el ministro de Ambiente y Desarrollo Sostenible puso en duda la viabilidad de esa obra. \nDe acuerdo con el ministro, la licencia que tiene este hotel no es viable porque permite talar una porción de \nbosque seco, ecosistema que está casi extinto en Colombia”.\nTomado y adaptado de: Redacción Vida de Hoy (2013, 10 de enero). Gobierno considera inviable hotel en el Tayrona. El Tiempo. \nRecuperado de http://www.eltiempo.com/archivo/dcumento/CMS-12505333\nEn esta noticia, el narrador está dándole un mayor énfasis a",
       "opciones": [
         {
           "letra": "A",
