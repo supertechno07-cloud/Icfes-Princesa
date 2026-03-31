@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977688503,
+  "_ts": 1774977693106,
   "pin": "1214",
   "preguntas": [
     {
@@ -932,7 +932,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "el ermitaño, el cuervo, el palomo, la serpiente y el ciervo."
         }
       ],
       "correcta": "A",
