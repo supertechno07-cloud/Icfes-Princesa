@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988264443,
+  "_ts": 1774988270194,
   "pin": "1214",
   "preguntas": [
     {
@@ -1150,7 +1150,7 @@
     {
       "id": 1774988264443,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "Un grupo de alumnos estudia el movimiento de una moto y encuentra que se puede modelar de acuerdo con \nla siguiente ecuación:\nDonde v(t) es la velocidad de la moto, en metros por segundo, y t es el tiempo, en segundos.\nDe acuerdo con el modelo, ¿el movimiento de la moto es con velocidad constante o uniformemente acelerado?",
       "opciones": [
         {
           "letra": "A",
