@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991659627,
+  "_ts": 1774991677642,
   "pin": "1214",
   "preguntas": [
     {
@@ -1306,7 +1306,7 @@
     {
       "id": 1774991659457,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "Un grupo de estudiantes contó el número de individuos de una especie de mariposa en una hectárea de un \nbosque, a cinco diferentes altitudes. Los resultados se muestran en la siguiente gráfica:",
       "opciones": [
         {
           "letra": "A",
