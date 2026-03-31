@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977408755,
+  "_ts": 1774977412319,
   "pin": "1214",
   "preguntas": [
     {
@@ -794,7 +794,7 @@
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "Un estudio de caso."
         },
         {
           "letra": "C",
