@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992547137,
+  "_ts": 1774992735830,
   "pin": "1214",
   "preguntas": [
     {
@@ -1488,7 +1488,7 @@
     {
       "id": 1774992547137,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "Un estudiante tomó los valores de pH a las sustancias que se muestran en la siguiente tabla:",
       "opciones": [
         {
           "letra": "A",
