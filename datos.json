@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992748027,
+  "_ts": 1774992757306,
   "pin": "1214",
   "preguntas": [
     {
@@ -1514,7 +1514,7 @@
     {
       "id": 1774992748027,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "Unos estudiantes quieren comprobar si las hormigas que viven en los árboles de acacia defienden a estos \ndel ataque de insectos que consumen sus hojas. Para ello, realizan seguimiento a 10 hojas de dos grupos de \nárboles de acacia similares, uno sin hormigas y otro con hormigas. Los resultados de su investigación se \nmuestran en la gráfica.",
       "opciones": [
         {
           "letra": "A",
