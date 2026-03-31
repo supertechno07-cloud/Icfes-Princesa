@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988222599,
+  "_ts": 1774988227457,
   "pin": "1214",
   "preguntas": [
     {
@@ -1115,6 +1115,32 @@
         {
           "letra": "D",
           "texto": "Es posible, porque, siempre que la enzima sea secretada fuera de las células, puede degradar cualquier  tipo de material."
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774988227211,
+      "materia": "ciencias",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
