@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774926099102,
+  "_ts": 1774926113888,
   "pin": "1214",
   "preguntas": [
     {
@@ -58,7 +58,7 @@
     {
       "id": 1774926099005,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "Un país afectado por el fenómeno de la corrupción adelanta una serie de debates ciudadanos para solucionar \neste problema. Ante este panorama, se han planteado varias soluciones:-  Desde una dimensión correctiva, se propone endurecer las penas contra los corruptos y que se les \nprohíba de por vida trabajar para el Estado, sin derecho a rebaja de penas.-  Desde una dimensión pedagógica, se propone que en los colegios se dé de manera obligatoria una \nmateria enfocada en la prevención de acciones, actitudes y conductas asociadas a la corrupción.-  Desde una dimensión restaurativa, se propone que cuando una persona haya sido condenada por \nactos de corrupción, si se arrepiente públicamente y le pide perdón a la ciudadanía, podrá ser eximida \nde las sanciones que se le hayan impuesto.\n¿Las tres propuestas de solución son compatibles entre sí?",
       "opciones": [
         {
           "letra": "A",
