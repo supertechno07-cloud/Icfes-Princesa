@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977440862,
+  "_ts": 1774977445162,
   "pin": "1214",
   "preguntas": [
     {
@@ -816,7 +816,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "tiene exactamente 50 años de edad."
         },
         {
           "letra": "B",
