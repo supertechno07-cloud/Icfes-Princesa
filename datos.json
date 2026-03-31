@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929810565,
+  "_ts": 1774929821009,
   "pin": "1214",
   "preguntas": [
     {
@@ -240,7 +240,7 @@
     {
       "id": 1774929810565,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "El Gobierno nacional ha decidido romper relaciones con el Gobierno de un país vecino después de recibir \ninformación de algunos campesinos que habitan en la frontera, en el sentido de que ha habido movimientos \ndel ejército del país vecino y que, según ellos, ese país se prepara para invadir a Colombia. \nLa decisión de romper relaciones con el país vecino es",
       "opciones": [
         {
           "letra": "A",
