@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930364286,
+  "_ts": 1774930369659,
   "pin": "1214",
   "preguntas": [
     {
@@ -415,7 +415,7 @@
           "texto": "Sí, si se comprueba que los ejércitos insurgentes en América Latina financian sus actividades con la  explotación de recursos naturales."
         }
       ],
-      "correcta": "B",
+      "correcta": "D",
       "imagen_b64": null,
       "imagen_desc": ""
     }
