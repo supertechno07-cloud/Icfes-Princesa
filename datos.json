@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929943127,
+  "_ts": 1774929951083,
   "pin": "1214",
   "preguntas": [
     {
@@ -318,7 +318,7 @@
     {
       "id": 1774929933330,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "El presidente de la República de Colombia quiere reformar las leyes que regulan el sistema de pensiones. Para \nlograr esta reforma, su propuesta debe ser aprobada por",
       "opciones": [
         {
           "letra": "A",
