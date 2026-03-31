@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774989104694,
+  "_ts": 1774989110363,
   "pin": "1214",
   "preguntas": [
     {
@@ -1228,7 +1228,7 @@
     {
       "id": 1774989104694,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "La figura representa el cruce entre dos ratones, para una característica dada por un solo gen.",
       "opciones": [
         {
           "letra": "A",
