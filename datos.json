@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929839723,
+  "_ts": 1774929847560,
   "pin": "1214",
   "preguntas": [
     {
@@ -259,7 +259,7 @@
           "texto": "apresurada porque la declaración de unos campesinos no puede ser confiable."
         }
       ],
-      "correcta": "A",
+      "correcta": "B",
       "imagen_b64": null,
       "imagen_desc": ""
     }
