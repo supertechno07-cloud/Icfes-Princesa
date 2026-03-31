@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977253399,
+  "_ts": 1774977257667,
   "pin": "1214",
   "preguntas": [
     {
@@ -673,6 +673,32 @@
         {
           "letra": "D",
           "texto": "consiste de una sola capa de grafito y la mina de lápiz tiene varias capas."
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774977257666,
+      "materia": "lectura",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
