@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988427660,
+  "_ts": 1774988433751,
   "pin": "1214",
   "preguntas": [
     {
@@ -1202,7 +1202,7 @@
     {
       "id": 1774988427329,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "Una estudiante quiere clasificar dos sustancias de acuerdo con el tipo de mezclas que son. Al buscar, encuentra \nque las mezclas homogéneas son uniformes en todas sus partes, pero que las mezclas heterogéneas no lo \nson. La estudiante realiza los procedimientos que se muestran en la tabla con las sustancias 1 y 2.",
       "opciones": [
         {
           "letra": "A",
