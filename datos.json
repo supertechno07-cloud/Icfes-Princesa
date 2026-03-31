@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977257667,
+  "_ts": 1774977262745,
   "pin": "1214",
   "preguntas": [
     {
@@ -682,7 +682,7 @@
     {
       "id": 1774977257666,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "En el texto, se comprende que el grafeno se considera un material “bidimensional” porque",
       "opciones": [
         {
           "letra": "A",
