@@ -679,11 +679,12 @@
     }
   ],
   "respuestas": {
-    "1774918338653": "A"
+    "1774918338653": "A",
+    "1774932939365": "A"
   },
   "resultadosEnviados": true,
-  "tsRespuestas": "2026-03-31T05:20:59.564Z",
-  "_ts": 1774934459564,
+  "tsRespuestas": "2026-03-31T05:21:00.700Z",
+  "_ts": 1774934460700,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1774934459562,
