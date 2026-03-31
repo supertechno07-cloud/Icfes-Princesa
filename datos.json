@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977063872,
+  "_ts": 1774977067528,
   "pin": "1214",
   "preguntas": [
     {
@@ -595,6 +595,32 @@
         {
           "letra": "D",
           "texto": "“Beneficios para los humanos”"
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774977067510,
+      "materia": "lectura",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
