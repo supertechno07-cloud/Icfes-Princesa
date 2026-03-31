@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977086272,
+  "_ts": 1774977091218,
   "pin": "1214",
   "preguntas": [
     {
@@ -620,7 +620,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Nutrición y seguridad alimentaria: una estrategia de cambio."
         }
       ],
       "correcta": "A",
