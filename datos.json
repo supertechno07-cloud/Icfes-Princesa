@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991677642,
+  "_ts": 1774991689514,
   "pin": "1214",
   "preguntas": [
     {
@@ -1306,7 +1306,7 @@
     {
       "id": 1774991659457,
       "materia": "ciencias",
-      "enunciado": "Un grupo de estudiantes contó el número de individuos de una especie de mariposa en una hectárea de un \nbosque, a cinco diferentes altitudes. Los resultados se muestran en la siguiente gráfica:",
+      "enunciado": "Un grupo de estudiantes contó el número de individuos de una especie de mariposa en una hectárea de un \nbosque, a cinco diferentes altitudes. Los resultados se muestran en la siguiente gráfica:\nCon base en la información anterior, ¿cuál de las siguientes interpretaciones es válida?",
       "opciones": [
         {
           "letra": "A",
