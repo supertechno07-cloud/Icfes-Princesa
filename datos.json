@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977248966,
+  "_ts": 1774977253399,
   "pin": "1214",
   "preguntas": [
     {
@@ -672,7 +672,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "consiste de una sola capa de grafito y la mina de lápiz tiene varias capas."
         }
       ],
       "correcta": "A",
