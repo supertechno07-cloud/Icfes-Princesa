@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930531946,
+  "_ts": 1774930542333,
   "pin": "1214",
   "preguntas": [
     {
@@ -517,6 +517,32 @@
         {
           "letra": "D",
           "texto": " Negativa, porque para los maestros, el Gobierno podría hacer un fuerte incremento salarial y esto afectaría el limitado presupuesto público del país."
+        }
+      ],
+      "correcta": "C",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774930542333,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
