@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988240052,
+  "_ts": 1774988243666,
   "pin": "1214",
   "preguntas": [
     {
@@ -1132,7 +1132,7 @@
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "La longitud de onda de la onda."
         },
         {
           "letra": "C",
