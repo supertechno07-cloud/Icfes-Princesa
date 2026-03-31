@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988115161,
+  "_ts": 1774988118977,
   "pin": "1214",
   "preguntas": [
     {
@@ -1059,6 +1059,32 @@
         {
           "letra": "C",
           "texto": "El hongo, al no ser parte de las redes tróficas, puede infectar a los animales y plantas del ecosistema."
+        },
+        {
+          "letra": "D",
+          "texto": "El uso del hongo posibilita la reutilización del poliuretano para hacer envases."
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774988118977,
+      "materia": "ciencias",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
         },
         {
           "letra": "D",
