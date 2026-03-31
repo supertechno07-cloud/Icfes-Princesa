@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930408726,
+  "_ts": 1774930414099,
   "pin": "1214",
   "preguntas": [
     {
@@ -439,6 +439,32 @@
         {
           "letra": "D",
           "texto": "Que aumente el número de cupos estudiantiles disponibles en cada uno de los grados."
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774930414099,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
