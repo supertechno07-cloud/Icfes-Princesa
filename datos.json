@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988312170,
+  "_ts": 1774988317368,
   "pin": "1214",
   "preguntas": [
     {
@@ -1176,7 +1176,7 @@
     {
       "id": 1774988312170,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "El siguiente circuito consta de 6 bombillos, dos interruptores, una batería y un cable conductor. Cuando los \ndos interruptores están en la posición “Encendido”, ellos permiten el paso de corriente y todos los bombillos \nalumbran, como se muestra a continuación:",
       "opciones": [
         {
           "letra": "A",
