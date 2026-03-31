@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992814711,
+  "_ts": 1774992820247,
   "pin": "1214",
   "preguntas": [
     {
@@ -1540,7 +1540,7 @@
     {
       "id": 1774992814711,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "En un experimento, un estudiante deja rodar una esfera de madera sobre una rampa a la cual se le puede \nvariar el ángulo de inclinación. El estudiante prueba varios ángulos y registra la velocidad con que llega la \nesfera a la parte inferior de la rampa, en cada caso.",
       "opciones": [
         {
           "letra": "A",
