@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774932137279,
+  "_ts": 1774932140840,
   "pin": "1214",
   "preguntas": [
     {
@@ -578,19 +578,19 @@
     {
       "id": 1774932137279,
       "materia": "matematicas",
-      "enunciado": "",
+      "enunciado": "e",
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "e"
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "e"
         },
         {
           "letra": "C",
-          "texto": ""
+          "texto": "e"
         },
         {
           "letra": "D",
