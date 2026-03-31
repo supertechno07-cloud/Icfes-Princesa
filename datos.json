@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774926093062,
+  "_ts": 1774926097051,
   "pin": "1214",
   "preguntas": [
     {
@@ -48,10 +48,10 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "El derecho a la libre asociación"
         }
       ],
-      "correcta": "A",
+      "correcta": "D",
       "imagen_b64": null,
       "imagen_desc": ""
     }
