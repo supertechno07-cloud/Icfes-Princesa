@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977824103,
+  "_ts": 1774977831609,
   "pin": "1214",
   "preguntas": [
     {
@@ -994,7 +994,7 @@
     {
       "id": 1774977824103,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "Respectivamente, los textos 1 y 2 son de carácter",
       "opciones": [
         {
           "letra": "A",
