@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930008799,
+  "_ts": 1774930012919,
   "pin": "1214",
   "preguntas": [
     {
@@ -360,7 +360,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "la construcción de un hotel ecoturístico en un territorio ancestral indígena."
         }
       ],
       "correcta": "A",
