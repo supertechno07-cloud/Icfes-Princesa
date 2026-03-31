@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930441691,
+  "_ts": 1774930447680,
   "pin": "1214",
   "preguntas": [
     {
@@ -467,7 +467,7 @@
           "texto": "diferenciar claramente las víctimas de la guerrilla de las víctimas de los grupos paramilitares."
         }
       ],
-      "correcta": "A",
+      "correcta": "B",
       "imagen_b64": null,
       "imagen_desc": ""
     }
