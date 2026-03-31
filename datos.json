@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929976306,
+  "_ts": 1774929984433,
   "pin": "1214",
   "preguntas": [
     {
@@ -334,7 +334,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "la mayoría de miembros del Congreso de la República."
         }
       ],
       "correcta": "A",
