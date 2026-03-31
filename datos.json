@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977711586,
+  "_ts": 1774977715047,
   "pin": "1214",
   "preguntas": [
     {
@@ -958,7 +958,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "el palomo y el ciervo."
         }
       ],
       "correcta": "A",
