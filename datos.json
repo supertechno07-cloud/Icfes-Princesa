@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988285012,
+  "_ts": 1774988293478,
   "pin": "1214",
   "preguntas": [
     {
@@ -1154,7 +1154,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "Con velocidad constante, porque la velocidad de la moto se mantiene en 5 m/s en cualquier tiempo."
         },
         {
           "letra": "B",
