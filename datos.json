@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988247119,
+  "_ts": 1774988251470,
   "pin": "1214",
   "preguntas": [
     {
@@ -1140,7 +1140,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "La intensidad del sonido."
         }
       ],
       "correcta": "A",
