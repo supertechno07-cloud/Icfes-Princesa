@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774926368518,
+  "_ts": 1774926373175,
   "pin": "1214",
   "preguntas": [
     {
@@ -123,6 +123,32 @@
         {
           "letra": "C",
           "texto": "Al finalizar la Segunda Guerra Mundial en 1945, los soviéticos ocuparon las zonas del este de Europa  que habían defendido, y EE.UU. y sus aliados se mantuvieron en Europa occidental."
+        },
+        {
+          "letra": "D",
+          "texto": "El muro de Berlín dividió la capital alemana hasta 1989: el lado occidental pertenecía a la República Federal  Alemana (RFA) y el lado oriental a la República Democrática Alemana (RDA)."
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774926373156,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
         },
         {
           "letra": "D",
