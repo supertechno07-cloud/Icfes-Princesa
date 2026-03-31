@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774976938426,
+  "_ts": 1774976942759,
   "pin": "1214",
   "preguntas": [
     {
@@ -568,7 +568,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Infografías S.O.S."
         }
       ],
       "correcta": "A",
