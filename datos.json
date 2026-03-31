@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930489452,
+  "_ts": 1774930496740,
   "pin": "1214",
   "preguntas": [
     {
@@ -500,7 +500,7 @@
     {
       "id": 1774930489313,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "El sindicato de maestros de un país organizó un paro como forma de protesta debido a que los maestros no han \nrecibido, desde hace varios años, un aumento significativo de su salario en los términos en los que previamente \nel Gobierno Nacional se había comprometido a cumplir.",
       "opciones": [
         {
           "letra": "A",
