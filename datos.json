@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977262745,
+  "_ts": 1774977268605,
   "pin": "1214",
   "preguntas": [
     {
@@ -686,7 +686,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "tiene una alta densidad."
         },
         {
           "letra": "B",
