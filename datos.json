@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977655588,
+  "_ts": 1774977658602,
   "pin": "1214",
   "preguntas": [
     {
@@ -906,7 +906,7 @@
         },
         {
           "letra": "D",
-          "texto": " hacer partícipes de sus ideas a los interlocutores."
+          "texto": "hacer partícipes de sus ideas a los interlocutores."
         }
       ],
       "correcta": "A",
