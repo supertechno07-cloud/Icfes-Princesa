@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930405072,
+  "_ts": 1774930408726,
   "pin": "1214",
   "preguntas": [
     {
@@ -438,7 +438,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Que aumente el número de cupos estudiantiles disponibles en cada uno de los grados."
         }
       ],
       "correcta": "A",
