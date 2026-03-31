@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977448538,
+  "_ts": 1774977452158,
   "pin": "1214",
   "preguntas": [
     {
@@ -824,7 +824,7 @@
         },
         {
           "letra": "C",
-          "texto": ""
+          "texto": "debe tener menos de 50 años de edad."
         },
         {
           "letra": "D",
