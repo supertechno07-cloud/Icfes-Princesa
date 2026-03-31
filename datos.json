@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929927772,
+  "_ts": 1774929933404,
   "pin": "1214",
   "preguntas": [
     {
@@ -305,6 +305,32 @@
         {
           "letra": "C",
           "texto": "el desarrollo sostenible. "
+        },
+        {
+          "letra": "D",
+          "texto": "la apertura económica."
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774929933330,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
         },
         {
           "letra": "D",
