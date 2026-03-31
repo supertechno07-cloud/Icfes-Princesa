@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977059522,
+  "_ts": 1774977063872,
   "pin": "1214",
   "preguntas": [
     {
@@ -594,7 +594,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "“Beneficios para los humanos”"
         }
       ],
       "correcta": "A",
