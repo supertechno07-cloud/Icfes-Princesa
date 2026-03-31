@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930979066,
+  "_ts": 1774930985514,
   "pin": "1214",
   "preguntas": [
     {
@@ -126,7 +126,7 @@
         },
         {
           "letra": "D",
-          "texto": "El muro de BerlÃ­n dividiÃ³ la capital alemana hasta 1989: el lado occidental pertenecÃ­a a la RepÃºblica Federal  Alemana (RFA) y el lado oriental a la RepÃºblica DemocrÃ¡tica Alemana (RDA)."
+          "texto": "El muro de Berlín dividió la capital alemana hasta 1989: el lado occidental pertenecía a la República Federal  Alemana (RFA) y el lado oriental a la República Democrática Alemana (RDA)."
         }
       ],
       "correcta": "A",
