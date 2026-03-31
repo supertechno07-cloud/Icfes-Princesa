@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977635536,
+  "_ts": 1774977640438,
   "pin": "1214",
   "preguntas": [
     {
@@ -894,7 +894,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "alarmar a los interlocutores."
         },
         {
           "letra": "B",
