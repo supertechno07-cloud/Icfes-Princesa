@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988227457,
+  "_ts": 1774988235779,
   "pin": "1214",
   "preguntas": [
     {
@@ -1124,7 +1124,7 @@
     {
       "id": 1774988227211,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "Un detector de sonido está diseñado para funcionar tanto en el aire como en el agua. En ambos casos, \nregistra la frecuencia, la longitud de onda, la velocidad de la onda y la intensidad del sonido.\nDe las variables registradas por el detector, ¿cuál permite conocer con certeza si el detector está en el aire \no en el agua?",
       "opciones": [
         {
           "letra": "A",
