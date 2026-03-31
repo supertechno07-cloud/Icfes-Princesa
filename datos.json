@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992429287,
+  "_ts": 1774992438474,
   "pin": "1214",
   "preguntas": [
     {
@@ -1410,7 +1410,7 @@
     {
       "id": 1774992416378,
       "materia": "ciencias",
-      "enunciado": " \nEl modelo muestra una red trófica marina",
+      "enunciado": " \nEl modelo muestra una red trófica marina\n\nTeniendo en cuenta la red trófica anterior, ¿qué pasaría si se extinguen los tiburones?",
       "opciones": [
         {
           "letra": "A",
