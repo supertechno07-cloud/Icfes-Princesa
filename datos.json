@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992857304,
+  "_ts": 1774992861635,
   "pin": "1214",
   "preguntas": [
     {
@@ -1548,7 +1548,7 @@
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "Cómo varía la velocidad de la esfera de madera respecto al ángulo de la rampa."
         },
         {
           "letra": "C",
