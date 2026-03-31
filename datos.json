@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930496740,
+  "_ts": 1774930504744,
   "pin": "1214",
   "preguntas": [
     {
@@ -500,7 +500,7 @@
     {
       "id": 1774930489313,
       "materia": "sociales",
-      "enunciado": "El sindicato de maestros de un país organizó un paro como forma de protesta debido a que los maestros no han \nrecibido, desde hace varios años, un aumento significativo de su salario en los términos en los que previamente \nel Gobierno Nacional se había comprometido a cumplir.",
+      "enunciado": "El sindicato de maestros de un país organizó un paro como forma de protesta debido a que los maestros no han \nrecibido, desde hace varios años, un aumento significativo de su salario en los términos en los que previamente \nel Gobierno Nacional se había comprometido a cumplir.\nLos representantes del Gobierno Nacional afirman que los recursos son limitados, pero tienen toda la \ndisposición para negociar un salario justo para los maestros, y por ello han decidido crear una comisión \ncon expertos en presupuesto público. La comisión tendrá un año para fijar el aumento salarial de los \nmaestros.\n¿Cuál es la valoración más probable que harían los representantes del sindicato sobre la decisión del Gobierno?",
       "opciones": [
         {
           "letra": "A",
