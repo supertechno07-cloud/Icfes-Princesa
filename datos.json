@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977664053,
+  "_ts": 1774977671241,
   "pin": "1214",
   "preguntas": [
     {
@@ -916,7 +916,7 @@
     {
       "id": 1774977664053,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "De acuerdo con el texto anterior, los personajes de la historia son",
       "opciones": [
         {
           "letra": "A",
