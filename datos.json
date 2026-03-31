@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774934600670,
+  "_ts": 1774934605581,
   "pin": "1214",
   "preguntas": [
     {
@@ -517,32 +517,6 @@
         {
           "letra": "D",
           "texto": " Sí, porque la ideología comunista busca que empresarios y trabajadores se unan contra los patronos."
-        }
-      ],
-      "correcta": "B",
-      "imagen_b64": null,
-      "imagen_desc": ""
-    },
-    {
-      "id": 1774932077564,
-      "materia": "matematicas",
-      "enunciado": "w",
-      "opciones": [
-        {
-          "letra": "A",
-          "texto": "w"
-        },
-        {
-          "letra": "B",
-          "texto": "w"
-        },
-        {
-          "letra": "C",
-          "texto": "w"
-        },
-        {
-          "letra": "D",
-          "texto": "w"
         }
       ],
       "correcta": "B",
