@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977389513,
+  "_ts": 1774977393597,
   "pin": "1214",
   "preguntas": [
     {
@@ -776,7 +776,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "refuta la creencia popular de que la contaminación marítima es un fenómeno reciente. "
         }
       ],
       "correcta": "A",
