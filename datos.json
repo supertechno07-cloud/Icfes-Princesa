@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774989013782,
+  "_ts": 1774989019808,
   "pin": "1214",
   "preguntas": [
     {
@@ -1206,7 +1206,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "La sustancia 1 es una mezcla homogénea y la sustancia 2 es una mezcla heterogénea."
         },
         {
           "letra": "B",
