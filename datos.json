@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929764808,
+  "_ts": 1774929780416,
   "pin": "1214",
   "preguntas": [
     {
@@ -208,6 +208,32 @@
         }
       ],
       "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774929780416,
+      "materia": "sociales",
+      "enunciado": "El siguiente es un fragmento sobre el tema del narcotráfico en Colombia: \n“… con el surgimiento del narcotráfico de una manera organizada y alrededor del tema de la producción, distribución, \ncirculación y protección de los narcotraficantes, llegaron propuestas de organización de grupos delincuenciales a los \nbarrios populares con distintas funciones: cuidar el negocio, ajustar cuentas y cobrar venganza. Se fortaleció enton\nces un aparato militar, al lado de una cultura de enriquecimiento fácil y de solución violenta de los conflictos…”.\nTomado de: Yarse, E. (2007). En series el Colombiano.\nDe acuerdo con los elementos incluidos en el artículo anterior, se podría deducir que en este se hace referencia \na la violencia urbana de la década de ",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "correcta": "A",
       "imagen_b64": null,
       "imagen_desc": ""
     }
