@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977715047,
+  "_ts": 1774977718314,
   "pin": "1214",
   "preguntas": [
     {
@@ -959,6 +959,32 @@
         {
           "letra": "D",
           "texto": "el palomo y el ciervo."
+        }
+      ],
+      "correcta": "B",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774977718136,
+      "materia": "lectura",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
