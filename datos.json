@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774926383415,
+  "_ts": 1774926425395,
   "pin": "1214",
   "preguntas": [
     {
@@ -140,7 +140,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "La empresa y los habitantes del municipio buscan aumentar la producción de carbón para mejorar los  ingresos de empresarios y trabajadores, por encima del acceso de agua."
         },
         {
           "letra": "B",
