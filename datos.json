@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988301893,
+  "_ts": 1774988306194,
   "pin": "1214",
   "preguntas": [
     {
@@ -1166,7 +1166,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Uniformemente acelerado, porque cuando el tiempo es igual a cero, la moto tiene una velocidad inicial  diferente de cero."
         }
       ],
       "correcta": "A",
