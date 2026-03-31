@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977491680,
+  "_ts": 1774977604163,
   "pin": "1214",
   "preguntas": [
     {
@@ -868,7 +868,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "recobrar su propia identidad."
         },
         {
           "letra": "B",
