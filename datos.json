@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991462644,
+  "_ts": 1774991471287,
   "pin": "1214",
   "preguntas": [
     {
@@ -1254,7 +1254,7 @@
     {
       "id": 1774991462644,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "El modelo representa los procesos que se presentan en el núcleo de las células eucariotas durante la meiosis.",
       "opciones": [
         {
           "letra": "A",
