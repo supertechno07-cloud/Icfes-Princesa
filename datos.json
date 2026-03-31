@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977658602,
+  "_ts": 1774977662534,
   "pin": "1214",
   "preguntas": [
     {
@@ -909,7 +909,7 @@
           "texto": "hacer partícipes de sus ideas a los interlocutores."
         }
       ],
-      "correcta": "A",
+      "correcta": "D",
       "imagen_b64": null,
       "imagen_desc": ""
     }
