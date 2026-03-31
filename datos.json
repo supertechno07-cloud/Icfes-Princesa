@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930776235,
+  "_ts": 1774930781211,
   "pin": "1214",
   "preguntas": [
     {
@@ -32,7 +32,7 @@
     {
       "id": 1774926061422,
       "materia": "sociales",
-      "enunciado": "que esEn una empresa, uno de los miembros de la junta directiva le dice al gerente general: âHay un grupo de empleados \ntÃ¡ inconforme con las polÃ­ticas laborales que implementamos recientemente. Esto preocupa, porque es un \ngrupo muy activo que, al parecer, estÃ¡ movilizando a varios empleados con el objetivo de conformar un sindicatoâ. \nAnte esto, el gerente afirmÃ³: âPropongo hablar con ese grupo para comunicarle que aquÃ­ estÃ¡n prohibidas las protestas \ny las movilizaciones, y que, si tienen alguna inquietud, serÃ¡ atendida de manera individual con cada empleadoâ.\nÂ¿QuÃ© derecho constitucional podrÃ­a ponerse en riesgo con la propuesta del gerente?",
+      "enunciado": "En una empresa, uno de los miembros de la junta directiva le dice al gerente general: “Hay un grupo de empleados \nque está inconforme con las políticas laborales que implementamos recientemente. Esto preocupa, porque es un \ngrupo muy activo que, al parecer, está movilizando a varios empleados con el objetivo de conformar un sindicato”. \nAnte esto, el gerente afirmó: “Propongo hablar con ese grupo para comunicarle que aquí están prohibidas las protestas \ny las movilizaciones, y que, si tienen alguna inquietud, será atendida de manera individual con cada empleado”.\n¿Qué derecho constitucional podría ponerse en riesgo con la propuesta del gerente?",
       "opciones": [
         {
           "letra": "A",
