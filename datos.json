@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992416378,
+  "_ts": 1774992424351,
   "pin": "1214",
   "preguntas": [
     {
@@ -1410,7 +1410,7 @@
     {
       "id": 1774992416378,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": " \nEl modelo muestra una red trófica marina",
       "opciones": [
         {
           "letra": "A",
