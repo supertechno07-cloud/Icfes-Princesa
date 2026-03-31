@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988297494,
+  "_ts": 1774988301893,
   "pin": "1214",
   "preguntas": [
     {
@@ -1162,7 +1162,7 @@
         },
         {
           "letra": "C",
-          "texto": ""
+          "texto": "Con velocidad constante, porque el modelo no es para la aceleración, sino que solo muestra la velocidad  de la moto."
         },
         {
           "letra": "D",
