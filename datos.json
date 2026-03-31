@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988162418,
+  "_ts": 1774988183969,
   "pin": "1214",
   "preguntas": [
     {
@@ -1072,15 +1072,15 @@
     {
       "id": 1774988118977,
       "materia": "ciencias",
-      "enunciado": "Un investigador desea cultivar solamente el hongo Pestalotiopsis microspora de una muestra traída de \nla selva, en la que se encuentran varios tipos de microorganismos. El investigador cuenta con cuatro posibles \nmedios de cultivo, los cuales se muestran a continuación:",
+      "enunciado": "Un investigador desea cultivar solamente el hongo Pestalotiopsis microspora de una muestra traída de \nla selva, en la que se encuentran varios tipos de microorganismos. El investigador cuenta con cuatro posibles \nmedios de cultivo, los cuales se muestran a continuación:\n\nDe los anteriores medios, ¿cuáles serían los más adecuados para cultivar únicamente el hongo de interés?",
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "Los medios 2 y 4."
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "Los medios 2 y 3."
         },
         {
           "letra": "C",
