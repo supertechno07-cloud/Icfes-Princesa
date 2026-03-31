@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977881909,
+  "_ts": 1774977887866,
   "pin": "1214",
   "preguntas": [
     {
@@ -1039,7 +1039,7 @@
           "texto": "persuadir a los lectores de que el uso del condón es inseguro."
         }
       ],
-      "correcta": "A",
+      "correcta": "B",
       "imagen_b64": null,
       "imagen_desc": ""
     }
