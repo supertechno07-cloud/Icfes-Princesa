@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774926373175,
+  "_ts": 1774926383415,
   "pin": "1214",
   "preguntas": [
     {
@@ -136,7 +136,7 @@
     {
       "id": 1774926373156,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "En una región semidesértica de Colombia, una empresa minera busca aumentar su explotación de carbón \ny considera realizar la desviación de un río para facilitar el uso del agua y hacer más eficiente la producción. \nEn el municipio más cercano al río se oponen al desvío y señalan que, aunque la actividad económica de \nla población gira en torno a la minería y la población se ha beneficiado del crecimiento de la empresa, no \nestán de acuerdo con esta propuesta, pues podría afectar las necesidades básicas de los habitantes.\nEn esta situación, ¿qué busca cada uno de los actores involucrados?",
       "opciones": [
         {
           "letra": "A",
