@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988293478,
+  "_ts": 1774988297494,
   "pin": "1214",
   "preguntas": [
     {
@@ -1158,7 +1158,7 @@
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "Uniformemente acelerado, porque la velocidad aumenta linealmente con el tiempo, y la aceleración de  la moto es 4 m/s2."
         },
         {
           "letra": "C",
