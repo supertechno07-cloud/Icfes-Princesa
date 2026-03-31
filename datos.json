@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977861370,
+  "_ts": 1774977865752,
   "pin": "1214",
   "preguntas": [
     {
@@ -1020,7 +1020,7 @@
     {
       "id": 1774977861200,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "El autor del texto 2 recurre a datos estadísticos para",
       "opciones": [
         {
           "letra": "A",
