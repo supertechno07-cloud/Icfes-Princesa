@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774932144725,
+  "_ts": 1774932410358,
   "pin": "1214",
   "preguntas": [
     {
@@ -598,6 +598,32 @@
         }
       ],
       "correcta": "B",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774932410358,
+      "materia": "ciencias",
+      "enunciado": "q",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "correcta": "A",
       "imagen_b64": null,
       "imagen_desc": ""
     }
