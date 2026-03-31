@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977362176,
+  "_ts": 1774977371578,
   "pin": "1214",
   "preguntas": [
     {
@@ -751,6 +751,32 @@
         {
           "letra": "D",
           "texto": "Los humanos han comenzado a advertir la insostenibilidad de la filosofía de la dilución."
+        }
+      ],
+      "correcta": "B",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774977371551,
+      "materia": "lectura",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
