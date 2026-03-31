@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977452158,
+  "_ts": 1774977456204,
   "pin": "1214",
   "preguntas": [
     {
@@ -828,10 +828,10 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "tiene la misma edad que tenía su esposo."
         }
       ],
-      "correcta": "A",
+      "correcta": "D",
       "imagen_b64": null,
       "imagen_desc": ""
     }
