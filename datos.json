@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991878650,
+  "_ts": 1774991891311,
   "pin": "1214",
   "preguntas": [
     {
@@ -1358,7 +1358,7 @@
     {
       "id": 1774991772879,
       "materia": "ciencias",
-      "enunciado": "Los compuestos químicos pueden adoptar distintas geometrías, dependiendo del número de enlaces que \nposea el átomo central y del número de pares de electrones libres, como se muestra en la tabla.",
+      "enunciado": "Los compuestos químicos pueden adoptar distintas geometrías, dependiendo del número de enlaces que \nposea el átomo central y del número de pares de electrones libres, como se muestra en la tabla.\n\n¿Qué geometría se obtendrá si el nitrógeno del amoníaco se enlaza con otro hidrógeno para formar NH4+?",
       "opciones": [
         {
           "letra": "A",
