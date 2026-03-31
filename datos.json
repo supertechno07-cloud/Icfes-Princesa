@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988064349,
+  "_ts": 1774988074599,
   "pin": "1214",
   "preguntas": [
     {
@@ -1046,7 +1046,7 @@
     {
       "id": 1774988064349,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "RESPONDE LAS PREGUNTAS 1 A 3 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN\n\n",
       "opciones": [
         {
           "letra": "A",
