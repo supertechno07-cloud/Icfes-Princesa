@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774926266087,
+  "_ts": 1774926281263,
   "pin": "1214",
   "preguntas": [
     {
@@ -84,7 +84,7 @@
     {
       "id": 1774926266048,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "Ante un repentino aumento de los casos de corrupción en los que están vinculados servidores públicos en \ncargos de elección popular, un grupo de ciudadanos propone la eliminación de todos los partidos políticos, a \nexcepción del movimiento político que ellos integran, porque, según ellos, en su agrupación política nunca \nha habido militantes involucrados en actos de corrupción.\n¿Sería un problema para la democracia que esta propuesta se llevara a cabo?",
       "opciones": [
         {
           "letra": "A",
