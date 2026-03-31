@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929633884,
+  "_ts": 1774929691610,
   "pin": "1214",
   "preguntas": [
     {
@@ -162,7 +162,7 @@
     {
       "id": 1774929633884,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "Lea atentamente el siguiente análisis sobre los precios de los medicamentos en Colombia:\n“El sistema de salud colombiano es insensible a los precios de los medicamentos. Para entender eso, hay que \nrecordar que, en Colombia, casi nadie paga de su bolsillo los precios reales de los medicamentos. El Estado \nestableció las ‘cuotas moderadoras’ (lo que las personas pagan por recibir los medicamentos) con el objetivo \nde que al paciente se le cobren sus medicinas de acuerdo a su nivel de ingresos, lo que es muy equitativo \npara proteger a los usuarios, pero al mismo tiempo promueve que las empresas farmacéuticas le cobren sus \nfármacos al sistema de salud a precios elevados, porque los pacientes no se quejan debido a que no se \nenteran de los precios de venta reales”.\nTomado y adaptado de: Bardey, D. (2013). Los precios de los medicamentos en Colombia.\nPortal La Silla Vacía. Recuperado de: http://lasillavacia.com\nDe acuerdo con el análisis anterior, ¿qué conceptos están relacionados?",
       "opciones": [
         {
           "letra": "A",
