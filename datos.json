@@ -684,10 +684,10 @@
   },
   "resultadosEnviados": true,
   "tsRespuestas": "2026-03-31T05:21:00.700Z",
-  "_ts": 1774934460700,
+  "_ts": 1774934474517,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1774934459562,
   "cronoSegAcum": 25,
-  "cronoInicioSesion": null
+  "cronoInicioSesion": 1774934474517
 }
