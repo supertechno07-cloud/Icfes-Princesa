@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930484813,
+  "_ts": 1774930489452,
   "pin": "1214",
   "preguntas": [
     {
@@ -487,6 +487,32 @@
         {
           "letra": "C",
           "texto": "Se sugiere que los periodistas que estén a favor de la guerrilla en el conflicto armado no son periodistas  genuinos.Se sugiere que los periodistas que estén a favor de la guerrilla en el conflicto armado no son periodistas  genuinos."
+        },
+        {
+          "letra": "D",
+          "texto": "El funcionario le está negando a la guerrilla la posibilidad de ejercer un derecho fundamental como la  libertad de expresión."
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774930489313,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
         },
         {
           "letra": "D",
