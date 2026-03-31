@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991727015,
+  "_ts": 1774991731825,
   "pin": "1214",
   "preguntas": [
     {
@@ -1322,7 +1322,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "El número de mariposas disminuye a medida que aumenta la altitud."
         }
       ],
       "correcta": "A",
