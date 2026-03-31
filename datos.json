@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930291067,
+  "_ts": 1774930303332,
   "pin": "1214",
   "preguntas": [
     {
@@ -396,7 +396,7 @@
     {
       "id": 1774930290978,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "Un informe sobre las causas de los conflictos armados entre etnias en África plantea que los ejércitos insurgentes \nfinancian sus operaciones mediante el saqueo de recursos naturales. Por tanto, se propone en este informe que una de \nlas posibles soluciones a los conflictos armados sea evitar que los grupos armados tengan acceso a estos recursos. \n¿Es posible adaptar esta solución a los conflictos latinoamericanos?",
       "opciones": [
         {
           "letra": "A",
