@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988118977,
+  "_ts": 1774988123319,
   "pin": "1214",
   "preguntas": [
     {
@@ -1065,7 +1065,7 @@
           "texto": "El uso del hongo posibilita la reutilización del poliuretano para hacer envases."
         }
       ],
-      "correcta": "A",
+      "correcta": "B",
       "imagen_b64": null,
       "imagen_desc": ""
     },
