@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774932415393,
+  "_ts": 1774932436438,
   "pin": "1214",
   "preguntas": [
     {
@@ -624,6 +624,32 @@
         }
       ],
       "correcta": "C",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774932436438,
+      "materia": "ingles",
+      "enunciado": "w",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "correcta": "A",
       "imagen_b64": null,
       "imagen_desc": ""
     }
