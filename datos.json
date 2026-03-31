@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977278840,
+  "_ts": 1774977283294,
   "pin": "1214",
   "preguntas": [
     {
@@ -698,7 +698,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "es casi transparente."
         }
       ],
       "correcta": "A",
