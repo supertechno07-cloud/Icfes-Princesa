@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929806523,
+  "_ts": 1774929810565,
   "pin": "1214",
   "preguntas": [
     {
@@ -231,6 +231,32 @@
         {
           "letra": "D",
           "texto": "1960, porque se instala como escenario del conflicto a la ciudad, en particular los barrios populares."
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774929810565,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
