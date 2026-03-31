@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992795931,
+  "_ts": 1774992800349,
   "pin": "1214",
   "preguntas": [
     {
@@ -1518,7 +1518,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "El título de la gráfica no contiene las variables trabajadas en el experimento."
         },
         {
           "letra": "B",
