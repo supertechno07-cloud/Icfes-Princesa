@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991482700,
+  "_ts": 1774991488202,
   "pin": "1214",
   "preguntas": [
     {
@@ -1258,7 +1258,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "La presencia de genes en los cromosomas."
         },
         {
           "letra": "B",
