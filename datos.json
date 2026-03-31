@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930799636,
+  "_ts": 1774930806163,
   "pin": "1214",
   "preguntas": [
     {
@@ -48,7 +48,7 @@
         },
         {
           "letra": "D",
-          "texto": "El derecho a la libre asociaciÃ³n"
+          "texto": "El derecho a la libre asociación"
         }
       ],
       "correcta": "D",
