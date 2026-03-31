@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977671241,
+  "_ts": 1774977675440,
   "pin": "1214",
   "preguntas": [
     {
@@ -920,7 +920,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "el ermitaño, la serpiente, los lobos y el árbol."
         },
         {
           "letra": "B",
