@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977297023,
+  "_ts": 1774977302239,
   "pin": "1214",
   "preguntas": [
     {
@@ -712,7 +712,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "Nobel de Física para dos científicos europeos por sus trabajos sobre el grafeno."
         },
         {
           "letra": "B",
