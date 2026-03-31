@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977877753,
+  "_ts": 1774977881909,
   "pin": "1214",
   "preguntas": [
     {
@@ -1036,7 +1036,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "persuadir a los lectores de que el uso del condón es inseguro."
         }
       ],
       "correcta": "A",
