@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977416227,
+  "_ts": 1774977421084,
   "pin": "1214",
   "preguntas": [
     {
@@ -802,7 +802,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Investigaciones propias."
         }
       ],
       "correcta": "A",
