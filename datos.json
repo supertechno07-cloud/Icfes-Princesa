@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929719325,
+  "_ts": 1774929728616,
   "pin": "1214",
   "preguntas": [
     {
@@ -188,7 +188,7 @@
     {
       "id": 1774929719325,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "En tres ciudades del país existe un alto riesgo de fraude en las elecciones locales. El registrador nacional propone \nentonces que, en lugar de que el voto sea secreto (que nadie más pueda saber por quién vota cada persona), \nse registre abiertamente el candidato por el que vota cada uno de los ciudadanos.\n¿Viola la propuesta del registrador nacional los derechos de los ciudadanos contemplados en la Constitución \nPolítica de Colombia?",
       "opciones": [
         {
           "letra": "A",
