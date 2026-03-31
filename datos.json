@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929933404,
+  "_ts": 1774929943127,
   "pin": "1214",
   "preguntas": [
     {
@@ -311,7 +311,7 @@
           "texto": "la apertura económica."
         }
       ],
-      "correcta": "A",
+      "correcta": "D",
       "imagen_b64": null,
       "imagen_desc": ""
     },
