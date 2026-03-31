@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929713819,
+  "_ts": 1774929719325,
   "pin": "1214",
   "preguntas": [
     {
@@ -179,6 +179,32 @@
         {
           "letra": "D",
           "texto": "Regulación y sobreprecios, porque la regulación de los precios a los usuarios estaría ocultando el alto  precio que paga el sistema de salud por los medicamentos."
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774929719325,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
