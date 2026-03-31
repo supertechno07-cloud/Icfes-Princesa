@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992865893,
+  "_ts": 1774992870722,
   "pin": "1214",
   "preguntas": [
     {
@@ -1556,7 +1556,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": " Cómo la rampa es deformada por el peso de la esfera de madera."
         }
       ],
       "correcta": "A",
