@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977283294,
+  "_ts": 1774977286767,
   "pin": "1214",
   "preguntas": [
     {
@@ -699,6 +699,32 @@
         {
           "letra": "D",
           "texto": "es casi transparente."
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774977286767,
+      "materia": "lectura",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
