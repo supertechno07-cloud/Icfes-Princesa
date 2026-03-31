@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930012919,
+  "_ts": 1774930019106,
   "pin": "1214",
   "preguntas": [
     {
@@ -361,6 +361,32 @@
         {
           "letra": "D",
           "texto": "la construcción de un hotel ecoturístico en un territorio ancestral indígena."
+        }
+      ],
+      "correcta": "B",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774930019016,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
