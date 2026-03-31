@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929196450,
+  "_ts": 1774929633884,
   "pin": "1214",
   "preguntas": [
     {
@@ -32,15 +32,15 @@
     {
       "id": 1774926061422,
       "materia": "sociales",
-      "enunciado": "En una empresa, uno de los miembros de la junta directiva le dice al gerente general: “Hay un grupo de empleados \nque está inconforme con las políticas laborales que implementamos recientemente. Esto preocupa, porque es un \ngrupo muy activo que, al parecer, está movilizando a varios empleados con el objetivo de conformar un sindicato”. \nAnte esto, el gerente afirmó: “Propongo hablar con ese grupo para comunicarle que aquí están prohibidas las protestas \ny las movilizaciones, y que, si tienen alguna inquietud, será atendida de manera individual con cada empleado”.\n¿Qué derecho constitucional podría ponerse en riesgo con la propuesta del gerente?",
+      "enunciado": "En una empresa, uno de los miembros de la junta directiva le dice al gerente general: âHay un grupo de empleados \nque estÃ¡ inconforme con las polÃ­ticas laborales que implementamos recientemente. Esto preocupa, porque es un \ngrupo muy activo que, al parecer, estÃ¡ movilizando a varios empleados con el objetivo de conformar un sindicatoâ. \nAnte esto, el gerente afirmÃ³: âPropongo hablar con ese grupo para comunicarle que aquÃ­ estÃ¡n prohibidas las protestas \ny las movilizaciones, y que, si tienen alguna inquietud, serÃ¡ atendida de manera individual con cada empleadoâ.\nÂ¿QuÃ© derecho constitucional podrÃ­a ponerse en riesgo con la propuesta del gerente?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "El derecho al libre acceso a la información."
+          "texto": "El derecho al libre acceso a la informaciÃ³n."
         },
         {
           "letra": "B",
-          "texto": "El derecho a la participación política."
+          "texto": "El derecho a la participaciÃ³n polÃ­tica."
         },
         {
           "letra": "C",
@@ -48,7 +48,7 @@
         },
         {
           "letra": "D",
-          "texto": "El derecho a la libre asociación"
+          "texto": "El derecho a la libre asociaciÃ³n"
         }
       ],
       "correcta": "D",
@@ -58,23 +58,23 @@
     {
       "id": 1774926099005,
       "materia": "sociales",
-      "enunciado": "Un país afectado por el fenómeno de la corrupción adelanta una serie de debates ciudadanos para solucionar \neste problema. Ante este panorama, se han planteado varias soluciones:-  Desde una dimensión correctiva, se propone endurecer las penas contra los corruptos y que se les \nprohíba de por vida trabajar para el Estado, sin derecho a rebaja de penas.-  Desde una dimensión pedagógica, se propone que en los colegios se dé de manera obligatoria una \nmateria enfocada en la prevención de acciones, actitudes y conductas asociadas a la corrupción.-  Desde una dimensión restaurativa, se propone que cuando una persona haya sido condenada por \nactos de corrupción, si se arrepiente públicamente y le pide perdón a la ciudadanía, podrá ser eximida \nde las sanciones que se le hayan impuesto.\n¿Las tres propuestas de solución son compatibles entre sí?",
+      "enunciado": "Un paÃ­s afectado por el fenÃ³meno de la corrupciÃ³n adelanta una serie de debates ciudadanos para solucionar \neste problema. Ante este panorama, se han planteado varias soluciones:-  Desde una dimensiÃ³n correctiva, se propone endurecer las penas contra los corruptos y que se les \nprohÃ­ba de por vida trabajar para el Estado, sin derecho a rebaja de penas.-  Desde una dimensiÃ³n pedagÃ³gica, se propone que en los colegios se dÃ© de manera obligatoria una \nmateria enfocada en la prevenciÃ³n de acciones, actitudes y conductas asociadas a la corrupciÃ³n.-  Desde una dimensiÃ³n restaurativa, se propone que cuando una persona haya sido condenada por \nactos de corrupciÃ³n, si se arrepiente pÃºblicamente y le pide perdÃ³n a la ciudadanÃ­a, podrÃ¡ ser eximida \nde las sanciones que se le hayan impuesto.\nÂ¿Las tres propuestas de soluciÃ³n son compatibles entre sÃ­?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Sí, porque ejecutar acciones para sancionar a los corruptos con penas más duras ayuda a que las  acciones pedagógicas prevengan a la ciudadanía para que no cometan actos de corrupción."
+          "texto": "SÃ­, porque ejecutar acciones para sancionar a los corruptos con penas mÃ¡s duras ayuda a que las  acciones pedagÃ³gicas prevengan a la ciudadanÃ­a para que no cometan actos de corrupciÃ³n."
         },
         {
           "letra": "B",
-          "texto": "No, porque ejecutar acciones para educar a las personas con el fin de prevenir que se cometan actos  de corrupción inválida las accionas punitivas para sancionar a los corruptos con penas más duras."
+          "texto": "No, porque ejecutar acciones para educar a las personas con el fin de prevenir que se cometan actos  de corrupciÃ³n invÃ¡lida las accionas punitivas para sancionar a los corruptos con penas mÃ¡s duras."
         },
         {
           "letra": "C",
-          "texto": "Sí, porque una acción restaurativa mediante la cual se le pide perdón a la ciudadanía por haber sido  corrupto refuerza las acciones pedagógicas que pretenden concientizar a las personas sobre la corrupción."
+          "texto": "SÃ­, porque una acciÃ³n restaurativa mediante la cual se le pide perdÃ³n a la ciudadanÃ­a por haber sido  corrupto refuerza las acciones pedagÃ³gicas que pretenden concientizar a las personas sobre la corrupciÃ³n."
         },
         {
           "letra": "D",
-          "texto": "No, porque las acciones restaurativas en las que se perdona a los corruptos cuando piden excusas  públicamente hacen inviables las acciones punitivas mediante las cuales se endurecen las penas."
+          "texto": "No, porque las acciones restaurativas en las que se perdona a los corruptos cuando piden excusas  pÃºblicamente hacen inviables las acciones punitivas mediante las cuales se endurecen las penas."
         }
       ],
       "correcta": "D",
@@ -84,23 +84,23 @@
     {
       "id": 1774926266048,
       "materia": "sociales",
-      "enunciado": "Ante un repentino aumento de los casos de corrupción en los que están vinculados servidores públicos en \ncargos de elección popular, un grupo de ciudadanos propone la eliminación de todos los partidos políticos, a \nexcepción del movimiento político que ellos integran, porque, según ellos, en su agrupación política nunca \nha habido militantes involucrados en actos de corrupción.\n¿Sería un problema para la democracia que esta propuesta se llevara a cabo?",
+      "enunciado": "Ante un repentino aumento de los casos de corrupciÃ³n en los que estÃ¡n vinculados servidores pÃºblicos en \ncargos de elecciÃ³n popular, un grupo de ciudadanos propone la eliminaciÃ³n de todos los partidos polÃ­ticos, a \nexcepciÃ³n del movimiento polÃ­tico que ellos integran, porque, segÃºn ellos, en su agrupaciÃ³n polÃ­tica nunca \nha habido militantes involucrados en actos de corrupciÃ³n.\nÂ¿SerÃ­a un problema para la democracia que esta propuesta se llevara a cabo?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "No, pues en una sociedad democrática lo que se necesita es un partido único que logre acabar con la  corrupción."
+          "texto": "No, pues en una sociedad democrÃ¡tica lo que se necesita es un partido Ãºnico que logre acabar con la  corrupciÃ³n."
         },
         {
           "letra": "B",
-          "texto": "No, pues los políticos de los otros partidos pueden ser reemplazados por empresarios que dirijan mejor  el país."
+          "texto": "No, pues los polÃ­ticos de los otros partidos pueden ser reemplazados por empresarios que dirijan mejor  el paÃ­s."
         },
         {
           "letra": "C",
-          "texto": "Sí, porque al acabarse con la mayoría de partidos, no habrían funcionarios suficientes para ocupar los  puestos del Estado."
+          "texto": "SÃ­, porque al acabarse con la mayorÃ­a de partidos, no habrÃ­an funcionarios suficientes para ocupar los  puestos del Estado."
         },
         {
           "letra": "D",
-          "texto": "Sí, porque la existencia de los partidos, permite representar los intereses de diversos sectores de la  sociedad."
+          "texto": "SÃ­, porque la existencia de los partidos, permite representar los intereses de diversos sectores de la  sociedad."
         }
       ],
       "correcta": "D",
@@ -110,23 +110,23 @@
     {
       "id": 1774926337121,
       "materia": "sociales",
-      "enunciado": "A continuación, se presenta un fragmento del discurso “Sr. Gorbachov, ¡Haga caer ese muro!” del expresidente \nde Estados Unidos Ronald Reagan, pronunciado en 1987 en Berlín Occidental:\n“Detrás de mí se alza un muro que rodea los sectores libres de esta ciudad, parte de un vasto sistema de barreras que \ndividen todo el continente de Europa. (…) Más al sur, puede que no haya ninguna barrera visible y obvia. Pero sigue \nhabiendo guardias armados y puestos de control; sigue habiendo una restricción al derecho de viajar, sigue siendo un \ninstrumento para imponer sobre los hombres y mujeres comunes el deseo de un Estado totalitario. Sin embargo, es \naquí, en Berlín, donde el muro emerge con mayor claridad; aquí, cortando vuestra ciudad, donde las fotografías de las \nnoticias y las pantallas de televisión han dejado una imprenta brutal de un continente en la mente del mundo”. \n¿Cuál de las siguientes evidencias NO sirve para ampliar la información sobre el muro de Berlín?",
+      "enunciado": "A continuaciÃ³n, se presenta un fragmento del discurso âSr. Gorbachov, Â¡Haga caer ese muro!â del expresidente \nde Estados Unidos Ronald Reagan, pronunciado en 1987 en BerlÃ­n Occidental:\nâDetrÃ¡s de mÃ­ se alza un muro que rodea los sectores libres de esta ciudad, parte de un vasto sistema de barreras que \ndividen todo el continente de Europa. (â¦) MÃ¡s al sur, puede que no haya ninguna barrera visible y obvia. Pero sigue \nhabiendo guardias armados y puestos de control; sigue habiendo una restricciÃ³n al derecho de viajar, sigue siendo un \ninstrumento para imponer sobre los hombres y mujeres comunes el deseo de un Estado totalitario. Sin embargo, es \naquÃ­, en BerlÃ­n, donde el muro emerge con mayor claridad; aquÃ­, cortando vuestra ciudad, donde las fotografÃ­as de las \nnoticias y las pantallas de televisiÃ³n han dejado una imprenta brutal de un continente en la mente del mundoâ. \nÂ¿CuÃ¡l de las siguientes evidencias NO sirve para ampliar la informaciÃ³n sobre el muro de BerlÃ­n?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "El expresidente Ronald Reagan terminó su periodo presidencial en 1989 y murió de neumonía el 5 de junio  de 2004, después de sufrir Alzheimer durante 10 años, lo que debilitó de manera constante su salud."
+          "texto": "El expresidente Ronald Reagan terminÃ³ su periodo presidencial en 1989 y muriÃ³ de neumonÃ­a el 5 de junio  de 2004, despuÃ©s de sufrir Alzheimer durante 10 aÃ±os, lo que debilitÃ³ de manera constante su salud."
         },
         {
           "letra": "B",
-          "texto": "Durante la Guerra Fría, la Unión Soviética buscaba garantizar el éxito de la implementación de un Estado socia lista en Alemania; por esta razón, se desarrollaron diferentes políticas tendientes a aislar la RDA de la RFA."
+          "texto": "Durante la Guerra FrÃ­a, la UniÃ³n SoviÃ©tica buscaba garantizar el Ã©xito de la implementaciÃ³n de un Estado socia lista en Alemania; por esta razÃ³n, se desarrollaron diferentes polÃ­ticas tendientes a aislar la RDA de la RFA."
         },
         {
           "letra": "C",
-          "texto": "Al finalizar la Segunda Guerra Mundial en 1945, los soviéticos ocuparon las zonas del este de Europa  que habían defendido, y EE.UU. y sus aliados se mantuvieron en Europa occidental."
+          "texto": "Al finalizar la Segunda Guerra Mundial en 1945, los soviÃ©ticos ocuparon las zonas del este de Europa  que habÃ­an defendido, y EE.UU. y sus aliados se mantuvieron en Europa occidental."
         },
         {
           "letra": "D",
-          "texto": "El muro de Berlín dividió la capital alemana hasta 1989: el lado occidental pertenecía a la República Federal  Alemana (RFA) y el lado oriental a la República Democrática Alemana (RDA)."
+          "texto": "El muro de BerlÃ­n dividiÃ³ la capital alemana hasta 1989: el lado occidental pertenecÃ­a a la RepÃºblica Federal  Alemana (RFA) y el lado oriental a la RepÃºblica DemocrÃ¡tica Alemana (RDA)."
         }
       ],
       "correcta": "A",
@@ -136,26 +136,52 @@
     {
       "id": 1774926373156,
       "materia": "sociales",
-      "enunciado": "En una región semidesértica de Colombia, una empresa minera busca aumentar su explotación de carbón \ny considera realizar la desviación de un río para facilitar el uso del agua y hacer más eficiente la producción. \nEn el municipio más cercano al río se oponen al desvío y señalan que, aunque la actividad económica de \nla población gira en torno a la minería y la población se ha beneficiado del crecimiento de la empresa, no \nestán de acuerdo con esta propuesta, pues podría afectar las necesidades básicas de los habitantes.\nEn esta situación, ¿qué busca cada uno de los actores involucrados?",
+      "enunciado": "En una regiÃ³n semidesÃ©rtica de Colombia, una empresa minera busca aumentar su explotaciÃ³n de carbÃ³n \ny considera realizar la desviaciÃ³n de un rÃ­o para facilitar el uso del agua y hacer mÃ¡s eficiente la producciÃ³n. \nEn el municipio mÃ¡s cercano al rÃ­o se oponen al desvÃ­o y seÃ±alan que, aunque la actividad econÃ³mica de \nla poblaciÃ³n gira en torno a la minerÃ­a y la poblaciÃ³n se ha beneficiado del crecimiento de la empresa, no \nestÃ¡n de acuerdo con esta propuesta, pues podrÃ­a afectar las necesidades bÃ¡sicas de los habitantes.\nEn esta situaciÃ³n, Â¿quÃ© busca cada uno de los actores involucrados?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "La empresa y los habitantes del municipio buscan aumentar la producción de carbón para mejorar los  ingresos de empresarios y trabajadores, por encima del acceso de agua."
+          "texto": "La empresa y los habitantes del municipio buscan aumentar la producciÃ³n de carbÃ³n para mejorar los  ingresos de empresarios y trabajadores, por encima del acceso de agua."
         },
         {
           "letra": "B",
-          "texto": "La empresa y los habitantes del municipio buscan garantizar el acceso al agua potable a todos los  pobladores, por encima del crecimiento de la producción minera."
+          "texto": "La empresa y los habitantes del municipio buscan garantizar el acceso al agua potable a todos los  pobladores, por encima del crecimiento de la producciÃ³n minera."
         },
         {
           "letra": "C",
-          "texto": "La empresa busca aumentar la producción de carbón y los habitantes buscan garantizar el bienestar y  la calidad de vida de la población."
+          "texto": "La empresa busca aumentar la producciÃ³n de carbÃ³n y los habitantes buscan garantizar el bienestar y  la calidad de vida de la poblaciÃ³n."
         },
         {
           "letra": "D",
-          "texto": "La empresa busca desviar el río para que otras poblaciones tengan acceso al líquido y los habitantes  buscan que el cauce siga igual."
+          "texto": "La empresa busca desviar el rÃ­o para que otras poblaciones tengan acceso al lÃ­quido y los habitantes  buscan que el cauce siga igual."
         }
       ],
       "correcta": "C",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774929633884,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "correcta": "A",
       "imagen_b64": null,
       "imagen_desc": ""
     }
