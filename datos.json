@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991904007,
+  "_ts": 1774991908814,
   "pin": "1214",
   "preguntas": [
     {
@@ -1374,7 +1374,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Lineal, porque cada enlace del nitrógeno se uniría a dos hidrógenos."
         }
       ],
       "correcta": "A",
