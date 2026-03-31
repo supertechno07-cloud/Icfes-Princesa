@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977693106,
+  "_ts": 1774977695166,
   "pin": "1214",
   "preguntas": [
     {
@@ -933,6 +933,32 @@
         {
           "letra": "D",
           "texto": "el ermitaño, el cuervo, el palomo, la serpiente y el ciervo."
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774977695166,
+      "materia": "lectura",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
