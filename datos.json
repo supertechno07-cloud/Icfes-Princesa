@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774976942759,
+  "_ts": 1774976947042,
   "pin": "1214",
   "preguntas": [
     {
@@ -569,6 +569,32 @@
         {
           "letra": "D",
           "texto": "Infografías S.O.S."
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774976946748,
+      "materia": "lectura",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
