@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977145171,
+  "_ts": 1774977205351,
   "pin": "1214",
   "preguntas": [
     {
@@ -634,7 +634,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "Informar que Novoselov es el físico más joven desde 1973 premiado con un Nobel de Física por el Comité Nobel."
         },
         {
           "letra": "B",
