@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774926186631,
+  "_ts": 1774926266087,
   "pin": "1214",
   "preguntas": [
     {
@@ -75,6 +75,32 @@
         {
           "letra": "D",
           "texto": "No, porque las acciones restaurativas en las que se perdona a los corruptos cuando piden excusas  públicamente hacen inviables las acciones punitivas mediante las cuales se endurecen las penas."
+        }
+      ],
+      "correcta": "D",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774926266048,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
         }
       ],
       "correcta": "A",
