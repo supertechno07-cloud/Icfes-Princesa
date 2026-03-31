@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774988081682,
+  "_ts": 1774988085617,
   "pin": "1214",
   "preguntas": [
     {
@@ -1050,7 +1050,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "El crecimiento del hongo no requiere una infraestructura especial para asegurar la degradación de los desechos."
         },
         {
           "letra": "B",
