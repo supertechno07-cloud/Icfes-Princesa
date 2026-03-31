@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774976947042,
+  "_ts": 1774977032024,
   "pin": "1214",
   "preguntas": [
     {
@@ -578,7 +578,7 @@
     {
       "id": 1774976946748,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "Considere la siguiente información que no está en el texto anterior:",
       "opciones": [
         {
           "letra": "A",
