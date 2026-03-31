@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977318820,
+  "_ts": 1774977327578,
   "pin": "1214",
   "preguntas": [
     {
@@ -734,7 +734,7 @@
     {
       "id": 1774977318820,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "RESPONDE LAS PREGUNTAS 9 A 11 DE ACUERDO CON EL SIGUIENTE TEXTO\n\n\n",
       "opciones": [
         {
           "letra": "A",
