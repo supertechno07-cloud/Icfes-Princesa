@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992800349,
+  "_ts": 1774992804600,
   "pin": "1214",
   "preguntas": [
     {
@@ -1522,7 +1522,7 @@
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "Las gráficas de barras no se pueden usar para representar porcentajes."
         },
         {
           "letra": "C",
