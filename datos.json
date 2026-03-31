@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992847967,
+  "_ts": 1774992857304,
   "pin": "1214",
   "preguntas": [
     {
@@ -1544,7 +1544,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": " Cómo es la resistencia de la esfera de madera a los golpes."
         },
         {
           "letra": "B",
