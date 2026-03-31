@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992861635,
+  "_ts": 1774992865893,
   "pin": "1214",
   "preguntas": [
     {
@@ -1552,7 +1552,7 @@
         },
         {
           "letra": "C",
-          "texto": ""
+          "texto": " Cómo cambia el peso de la esfera respecto al ángulo de inclinación de la rampa."
         },
         {
           "letra": "D",
