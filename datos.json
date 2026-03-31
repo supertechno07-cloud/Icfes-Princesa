@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991456863,
+  "_ts": 1774991460875,
   "pin": "1214",
   "preguntas": [
     {
@@ -1232,19 +1232,19 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "."
         },
         {
           "letra": "B",
-          "texto": ""
+          "texto": "."
         },
         {
           "letra": "C",
-          "texto": ""
+          "texto": "."
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "."
         }
       ],
       "correcta": "A",
