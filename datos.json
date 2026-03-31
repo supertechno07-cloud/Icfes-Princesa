@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930666763,
+  "_ts": 1774930700254,
   "pin": "1214",
   "preguntas": [
     {
@@ -545,7 +545,7 @@
           "texto": " Sí, porque la ideología comunista busca que empresarios y trabajadores se unan contra los patronos."
         }
       ],
-      "correcta": "A",
+      "correcta": "B",
       "imagen_b64": null,
       "imagen_desc": ""
     }
