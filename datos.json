@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930019106,
+  "_ts": 1774930026398,
   "pin": "1214",
   "preguntas": [
     {
@@ -370,7 +370,7 @@
     {
       "id": 1774930019016,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "El escritor Eduardo Galeano afirmó lo siguiente en 1970: “América Latina continúa existiendo al servicio de \nlas necesidades ajenas, como fuente y reserva del petróleo, hierro y cobre (…)”. Según estos planteamientos, \nel modelo económico de América Latina se concentra en la producción y comercialización de",
       "opciones": [
         {
           "letra": "A",
