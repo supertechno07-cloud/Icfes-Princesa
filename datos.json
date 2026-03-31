@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774992460856,
+  "_ts": 1774992472627,
   "pin": "1214",
   "preguntas": [
     {
@@ -1436,7 +1436,7 @@
     {
       "id": 1774992460856,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "Desde la playa de un río, un niño observa un velero de juguete sobre el que actúan tres fuerzas en dirección \nhorizontal, como lo muestra la siguiente figura:",
       "opciones": [
         {
           "letra": "A",
