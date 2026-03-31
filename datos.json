@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977215955,
+  "_ts": 1774977219912,
   "pin": "1214",
   "preguntas": [
     {
@@ -646,7 +646,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "Informar que el Comité Nobel ha determinado que Geim es el físico más joven premiado con un Nobel  desde 1973"
         }
       ],
       "correcta": "A",
