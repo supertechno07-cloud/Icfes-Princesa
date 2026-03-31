@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774931032207,
+  "_ts": 1774931040500,
   "pin": "1214",
   "preguntas": [
     {
@@ -152,7 +152,7 @@
         },
         {
           "letra": "D",
-          "texto": "La empresa busca desviar el rÃ­o para que otras poblaciones tengan acceso al lÃ­quido y los habitantes  buscan que el cauce siga igual."
+          "texto": "La empresa busca desviar el río para que otras poblaciones tengan acceso al líquido y los habitantes  buscan que el cauce siga igual."
         }
       ],
       "correcta": "C",
