@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977286767,
+  "_ts": 1774977297023,
   "pin": "1214",
   "preguntas": [
     {
@@ -708,7 +708,7 @@
     {
       "id": 1774977286767,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "De acuerdo con la información acerca de los ganadores del premio, ¿cuál de los siguientes sería el titulo más \nadecuado para este artículo?",
       "opciones": [
         {
           "letra": "A",
