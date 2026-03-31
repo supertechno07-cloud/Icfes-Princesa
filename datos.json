@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929728616,
+  "_ts": 1774929734507,
   "pin": "1214",
   "preguntas": [
     {
@@ -192,7 +192,7 @@
       "opciones": [
         {
           "letra": "A",
-          "texto": ""
+          "texto": "No, porque aunque el voto ya no sea secreto, se evita elegir candidatos que no obtuvieron la mayoría de votos."
         },
         {
           "letra": "B",
