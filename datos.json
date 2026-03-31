@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774929749612,
+  "_ts": 1774929764808,
   "pin": "1214",
   "preguntas": [
     {
@@ -207,7 +207,7 @@
           "texto": "Sí, porque se puede evitar el fraude, pero los votantes pueden sentirse presionados de que se sepa  por quién votaron."
         }
       ],
-      "correcta": "A",
+      "correcta": "D",
       "imagen_b64": null,
       "imagen_desc": ""
     }
