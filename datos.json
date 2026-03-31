@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991745674,
+  "_ts": 1774991751069,
   "pin": "1214",
   "preguntas": [
     {
@@ -1332,7 +1332,7 @@
     {
       "id": 1774991745435,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "En el siglo XIX, Dalton formuló su modelo atómico, en el cual explicaba la forma de los átomos, el modo en \nque se diferencian unos de otros dependiendo del elemento químico, y la forma en que se relacionan entre \nsí en las reacciones químicas. En su modelo, el átomo se consideraba una esfera sólida sin partes y, por tanto, \nindivisible; sin embargo, su modelo atómico se rechazó años después porque",
       "opciones": [
         {
           "letra": "A",
