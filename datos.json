@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774930377908,
+  "_ts": 1774930391060,
   "pin": "1214",
   "preguntas": [
     {
@@ -422,7 +422,7 @@
     {
       "id": 1774930377908,
       "materia": "sociales",
-      "enunciado": "",
+      "enunciado": "En un país se encontró que muchos estudiantes están repitiendo cursos, por mal rendimiento académico, y \nesta situación ha generado un aumento en los costos en los colegios públicos. Además, el alto número de \nestudiantes repitentes ha reducido los cupos estudiantiles disponibles para aquellos jóvenes que llegan a \ndeterminado grado después de haber aprobado el grado anterior. Para solucionar este problema, se aprobó \nun decreto según el cual solo se permite en cada colegio que el 5 % de los estudiantes en determinado \ngrado lo repita al año siguiente. \n¿Qué impacto negativo puede tener esta política en lo que se refiere a la formación educativa?",
       "opciones": [
         {
           "letra": "A",
