@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977314507,
+  "_ts": 1774977318820,
   "pin": "1214",
   "preguntas": [
     {
@@ -721,6 +721,32 @@
         {
           "letra": "C",
           "texto": "Nobel de Física para dos científicos británicos por sus trabajos sobre el grafeno."
+        },
+        {
+          "letra": "D",
+          "texto": "Nobel de Física para dos científicos suecos por sus trabajos sobre el grafeno."
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1774977318820,
+      "materia": "lectura",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
         },
         {
           "letra": "D",
