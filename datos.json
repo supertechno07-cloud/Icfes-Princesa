@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774991556802,
+  "_ts": 1774991578735,
   "pin": "1214",
   "preguntas": [
     {
@@ -1280,7 +1280,7 @@
     {
       "id": 1774991556802,
       "materia": "ciencias",
-      "enunciado": "",
+      "enunciado": "En clase de Química, Camilo escribe en el tablero la siguiente ecuación:\nLa profesora le dice a Camilo que la reacción no está balanceada porque no cumple la ley de conservación \nde la masa, la cual establece que el número de átomos de un tipo en los reactivos debe ser igual al número \nde átomos del mismo tipo en los productos.\nCon base en la información anterior, ¿cuál de las siguientes ecuaciones cumple la ley de conservación de \nla masa?\nReactivos Productos\nNa + Cl2 2 NaCl2",
       "opciones": [
         {
           "letra": "A",
