@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774932410358,
+  "_ts": 1774932413583,
   "pin": "1214",
   "preguntas": [
     {
@@ -616,14 +616,14 @@
         },
         {
           "letra": "C",
-          "texto": ""
+          "texto": "q"
         },
         {
           "letra": "D",
           "texto": ""
         }
       ],
-      "correcta": "A",
+      "correcta": "C",
       "imagen_b64": null,
       "imagen_desc": ""
     }
