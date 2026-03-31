@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774977695166,
+  "_ts": 1774977700850,
   "pin": "1214",
   "preguntas": [
     {
@@ -942,7 +942,7 @@
     {
       "id": 1774977695166,
       "materia": "lectura",
-      "enunciado": "",
+      "enunciado": "Según el texto, la serpiente intervino luego de que lo hicieran",
       "opciones": [
         {
           "letra": "A",
