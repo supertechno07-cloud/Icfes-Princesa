@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1774989273342,
+  "_ts": 1774989276542,
   "pin": "1214",
   "preguntas": [
     {
@@ -1270,7 +1270,7 @@
         },
         {
           "letra": "D",
-          "texto": ""
+          "texto": "La división del citoplasma."
         }
       ],
       "correcta": "A",
