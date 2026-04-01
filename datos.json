@@ -1407,16 +1407,17 @@
     }
   ],
   "respuestas": {
-    "1774988064349": "A"
+    "1774988064349": "A",
+    "1774988118977": "D"
   },
   "resultadosEnviados": true,
-  "tsRespuestas": "2026-04-01T01:02:51.875Z",
-  "_ts": 1775006494064,
+  "tsRespuestas": "2026-04-01T01:21:38.271Z",
+  "_ts": 1775006498271,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1775005371849,
   "cronoSegAcum": 14450,
   "cronoInicioSesion": 1775006494064,
   "_tsPreguntas": 1775002765520,
-  "_tsRespuestas": 1775005371875
+  "_tsRespuestas": 1775006498271
 }
