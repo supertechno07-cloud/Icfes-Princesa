@@ -1412,12 +1412,12 @@
   },
   "resultadosEnviados": true,
   "tsRespuestas": "2026-04-01T01:21:38.271Z",
-  "_ts": 1775006498271,
+  "_ts": 1775006503078,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1775005371849,
-  "cronoSegAcum": 14450,
-  "cronoInicioSesion": 1775006494064,
+  "cronoSegAcum": 14459,
+  "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520,
   "_tsRespuestas": 1775006498271
 }
