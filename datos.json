@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1775007058475,
+  "_ts": 1775007062638,
   "pin": "1214",
   "preguntas": [
     {
@@ -1420,5 +1420,5 @@
   "cronoInicioSesion": 1775007058475,
   "_tsPreguntas": 1775002765520,
   "_tsRespuestas": 1775006498271,
-  "salidasPestana": 1
+  "salidasPestana": 2
 }
