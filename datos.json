@@ -1409,16 +1409,19 @@
   "respuestas": {
     "1774988064349": "A",
     "1774988118977": "D",
-    "1774926061422": "D"
+    "1774926061422": "D",
+    "1774926099005": "D",
+    "1774926266048": "A",
+    "1774926337121": "A"
   },
   "resultadosEnviados": true,
-  "tsRespuestas": "2026-04-01T02:29:51.070Z",
-  "_ts": 1775010591070,
+  "tsRespuestas": "2026-04-01T02:29:58.645Z",
+  "_ts": 1775010598645,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1775005371849,
   "cronoSegAcum": 2403,
   "cronoInicioSesion": 1775005521399,
   "_tsPreguntas": 1775002765520,
-  "_tsRespuestas": 1775010591070
+  "_tsRespuestas": 1775010598645
 }
