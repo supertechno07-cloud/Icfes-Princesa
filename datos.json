@@ -1,4 +1,6 @@
 {
+  "_v": 1,
+  "_ts": 1775001887064,
   "pin": "1214",
   "preguntas": [
     {
@@ -1411,8 +1413,6 @@
   },
   "resultadosEnviados": true,
   "tsRespuestas": "2026-03-31T21:10:02.957Z",
-  "_ts": 1775001887064,
-  "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": null,
   "cronoSegAcum": 187,
