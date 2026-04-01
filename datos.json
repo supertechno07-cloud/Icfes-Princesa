@@ -1406,14 +1406,17 @@
       "imagen_desc": ""
     }
   ],
-  "respuestas": {},
-  "resultadosEnviados": false,
-  "tsRespuestas": null,
-  "_ts": 1775005079647,
+  "respuestas": {
+    "1774988064349": "A"
+  },
+  "resultadosEnviados": true,
+  "tsRespuestas": "2026-04-01T01:02:51.875Z",
+  "_ts": 1775005371875,
   "_v": 1,
   "tiempoInicio": null,
-  "tiempoFin": null,
-  "cronoSegAcum": 1955,
-  "cronoInicioSesion": 1775004946225,
-  "_tsPreguntas": 1775002765520
+  "tiempoFin": 1775005371849,
+  "cronoSegAcum": 2340,
+  "cronoInicioSesion": 1775005332393,
+  "_tsPreguntas": 1775002765520,
+  "_tsRespuestas": 1775005371875
 }
