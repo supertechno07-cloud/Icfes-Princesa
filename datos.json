@@ -72,7 +72,7 @@
         },
         {
           "letra": "D",
-          "texto": "puestos del Estado. D.  Sí, porque la existencia de los partidos, permite representar los intereses de diversos sectores de la  sociedad."
+          "texto": "  Sí, porque la existencia de los partidos, permite representar los intereses de diversos sectores de la  sociedad."
         }
       ],
       "correcta": "D",
@@ -1409,7 +1409,7 @@
   "respuestas": {},
   "resultadosEnviados": false,
   "tsRespuestas": null,
-  "_ts": 1775004946225,
+  "_ts": 1775005074735,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": null,
