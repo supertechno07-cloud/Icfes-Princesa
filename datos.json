@@ -1409,11 +1409,11 @@
   "respuestas": {},
   "resultadosEnviados": false,
   "tsRespuestas": null,
-  "_ts": 1775004102781,
+  "_ts": 1775004946225,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": null,
   "cronoSegAcum": 1955,
-  "cronoInicioSesion": null,
+  "cronoInicioSesion": 1775004946225,
   "_tsPreguntas": 1775002765520
 }
