@@ -1,6 +1,4 @@
 {
-  "_v": 1,
-  "_ts": 1775003874514,
   "pin": "1214",
   "preguntas": [
     {
@@ -1411,9 +1409,11 @@
   "respuestas": {},
   "resultadosEnviados": false,
   "tsRespuestas": null,
+  "_ts": 1775004102781,
+  "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": null,
-  "cronoSegAcum": 12,
+  "cronoSegAcum": 1955,
   "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520
 }
