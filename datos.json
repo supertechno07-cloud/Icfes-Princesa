@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1775148925242,
+  "_ts": 1775148937145,
   "pin": "1214",
   "preguntas": [
     {
@@ -1457,7 +1457,7 @@
   "tiempoInicio": null,
   "tiempoFin": 1775005371849,
   "cronoSegAcum": 0,
-  "cronoInicioSesion": null,
+  "cronoInicioSesion": 1775148937145,
   "_tsPreguntas": 1775002765520,
   "_tsRespuestas": 1775148826672,
   "salidasPestana": 17
