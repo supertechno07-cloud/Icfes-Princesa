@@ -56,7 +56,7 @@
     {
       "id": 1774926266048,
       "materia": "sociales",
-      "enunciado": "Ante un repentino aumento de los casos de corrupción en los que están vinculados servidores públicos en \ncargos de elección popular, un grupo de ciudadanos propone la eliminación de todos los partidos políticos, a \nexcepción del movimiento político que ellos integran, porque, según ellos, en su agrupación política nunca \nha habido militantes involucrados en actos de corrupción.\n¿Sería un problema para la democracia que esta propuesta se llevara a cabo?excepciÃ³n del movimiento polÃ­tico que ellos integran, porque, segÃºn ellos, en su agrupaciÃ³n polÃ­tica nunca \nha habido militantes involucrados en actos de corrupciÃ³n.\nÂ¿SerÃ­a un problema para la democracia que esta propuesta se llevara a cabo?",
+      "enunciado": "Ante un repentino aumento de los casos de corrupción en los que están vinculados servidores públicos en \ncargos de elección popular, un grupo de ciudadanos propone la eliminación de todos los partidos políticos, a \nexcepción del movimiento político que ellos integran, porque, según ellos, en su agrupación política nunca \nha habido militantes involucrados en actos de corrupción.\n¿Sería un problema para la democracia que esta propuesta se llevara a cabo?",
       "opciones": [
         {
           "letra": "A",
@@ -1422,12 +1422,12 @@
   },
   "resultadosEnviados": true,
   "tsRespuestas": "2026-04-01T02:30:14.022Z",
-  "_ts": 1775010615743,
+  "_ts": 1775148557948,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1775005371849,
-  "cronoSegAcum": 7497,
-  "cronoInicioSesion": null,
+  "cronoSegAcum": 14459,
+  "cronoInicioSesion": 1775148557948,
   "_tsPreguntas": 1775002765520,
   "_tsRespuestas": 1775010614022
 }
