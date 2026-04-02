@@ -1424,14 +1424,14 @@
     "1774976946748": "A"
   },
   "resultadosEnviados": true,
-  "tsRespuestas": "2026-04-02T16:53:22.566Z",
-  "_ts": 1775148802566,
+  "tsRespuestas": "2026-04-02T16:53:37.537Z",
+  "_ts": 1775148817537,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1775005371849,
   "cronoSegAcum": 14635,
   "cronoInicioSesion": 1775148752573,
   "_tsPreguntas": 1775002765520,
-  "_tsRespuestas": 1775148802566,
+  "_tsRespuestas": 1775148817537,
   "salidasPestana": 16
 }
