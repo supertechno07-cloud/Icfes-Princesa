@@ -1,6 +1,4 @@
 {
-  "_v": 1,
-  "_ts": 1775270498459,
   "pin": "1214",
   "preguntas": [
     {
@@ -1408,14 +1406,18 @@
       "imagen_desc": ""
     }
   ],
-  "respuestas": {},
-  "resultadosEnviados": false,
-  "tsRespuestas": null,
+  "respuestas": {
+    "1774976647408": "A"
+  },
+  "resultadosEnviados": true,
+  "tsRespuestas": "2026-04-04T02:42:22.986Z",
+  "_ts": 1775270542986,
+  "_v": 1,
   "tiempoInicio": null,
-  "tiempoFin": null,
-  "cronoSegAcum": 0,
+  "tiempoFin": 1775005371849,
+  "cronoSegAcum": 15686,
   "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520,
-  "_tsRespuestas": 1775270132040,
+  "_tsRespuestas": 1775270542986,
   "salidasPestana": 26
 }
