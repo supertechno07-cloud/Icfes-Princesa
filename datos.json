@@ -1591,15 +1591,15 @@
   "respuestas": {},
   "resultadosEnviados": false,
   "tsRespuestas": null,
-  "_ts": 1775276791826,
+  "_ts": 1775276795285,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1775005371849,
-  "cronoSegAcum": 23,
+  "cronoSegAcum": 30,
   "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520,
   "_tsRespuestas": 0,
-  "salidasPestana": 29,
+  "salidasPestana": 28,
   "_respReset": 1775276784091,
   "_cronoReset": 1775276756703
 }
