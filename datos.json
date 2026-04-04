@@ -1,4 +1,6 @@
 {
+  "_v": 1,
+  "_ts": 1775276799804,
   "pin": "1214",
   "preguntas": [
     {
@@ -1510,32 +1512,6 @@
       "imagen_desc": ""
     },
     {
-      "id": 1775272051945,
-      "materia": "matematicas",
-      "enunciado": "",
-      "opciones": [
-        {
-          "letra": "A",
-          "texto": ""
-        },
-        {
-          "letra": "B",
-          "texto": ""
-        },
-        {
-          "letra": "C",
-          "texto": ""
-        },
-        {
-          "letra": "D",
-          "texto": ""
-        }
-      ],
-      "correcta": "A",
-      "imagen_b64": null,
-      "imagen_desc": ""
-    },
-    {
       "id": 1775272661221,
       "materia": "matematicas",
       "enunciado": "Hoa",
@@ -1591,15 +1567,13 @@
   "respuestas": {},
   "resultadosEnviados": false,
   "tsRespuestas": null,
-  "_ts": 1775276795285,
-  "_v": 1,
   "tiempoInicio": null,
-  "tiempoFin": 1775005371849,
-  "cronoSegAcum": 30,
+  "tiempoFin": null,
+  "cronoSegAcum": 23,
   "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520,
   "_tsRespuestas": 0,
-  "salidasPestana": 28,
-  "_respReset": 1775276784091,
-  "_cronoReset": 1775276756703
+  "salidasPestana": 29,
+  "_cronoReset": 1775276756703,
+  "_respReset": 1775276784091
 }
