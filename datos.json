@@ -1430,13 +1430,13 @@
   },
   "resultadosEnviados": true,
   "tsRespuestas": "2026-04-04T02:32:11.443Z",
-  "_ts": 1775269931443,
+  "_ts": 1775269957158,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1775005371849,
-  "cronoSegAcum": 15117,
+  "cronoSegAcum": 15144,
   "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520,
   "_tsRespuestas": 1775269931443,
-  "salidasPestana": 23
+  "salidasPestana": 24
 }
