@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1775271988836,
+  "_ts": 1775272044472,
   "pin": "1214",
   "preguntas": [
     {
@@ -1510,6 +1510,32 @@
       "correcta": "A",
       "imagen_b64": null,
       "imagen_desc": ""
+    },
+    {
+      "id": 1775272044472,
+      "materia": "matematicas",
+      "enunciado": "H",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
     }
   ],
   "respuestas": {},
@@ -1517,7 +1543,7 @@
   "tsRespuestas": null,
   "tiempoInicio": null,
   "tiempoFin": null,
-  "cronoSegAcum": 0,
+  "cronoSegAcum": 8,
   "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520,
   "_tsRespuestas": 1775271395916,
