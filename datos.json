@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1775271959611,
+  "_ts": 1775271962962,
   "pin": "1214",
   "preguntas": [
     {
@@ -1445,32 +1445,6 @@
         {
           "letra": "B",
           "texto": "Hola"
-        },
-        {
-          "letra": "C",
-          "texto": ""
-        },
-        {
-          "letra": "D",
-          "texto": ""
-        }
-      ],
-      "correcta": "A",
-      "imagen_b64": null,
-      "imagen_desc": ""
-    },
-    {
-      "id": 1775271959611,
-      "materia": "sociales",
-      "enunciado": "",
-      "opciones": [
-        {
-          "letra": "A",
-          "texto": ""
-        },
-        {
-          "letra": "B",
-          "texto": ""
         },
         {
           "letra": "C",
