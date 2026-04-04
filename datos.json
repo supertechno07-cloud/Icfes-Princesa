@@ -1,4 +1,6 @@
 {
+  "_v": 1,
+  "_ts": 1775274548534,
   "pin": "1214",
   "preguntas": [
     {
@@ -1588,34 +1590,16 @@
       "imagen_desc": ""
     }
   ],
-  "respuestas": {
-    "1774976647408": "B",
-    "1774976918127": "B",
-    "1774976946748": "C",
-    "1774977067510": "C",
-    "1774977097590": "A",
-    "1774977286767": "B",
-    "1774977318820": "A",
-    "1774977371551": "A",
-    "1774977398600": "A",
-    "1774977427041": "A",
-    "1774926061422": "B",
-    "1774926099005": "B",
-    "1774926266048": "B",
-    "1774926337121": "B",
-    "1774926373156": "C"
-  },
-  "resultadosEnviados": true,
-  "tsRespuestas": "2026-04-04T03:48:08.319Z",
-  "_ts": 1775274488319,
-  "_v": 1,
+  "respuestas": {},
+  "resultadosEnviados": false,
+  "tsRespuestas": null,
   "tiempoInicio": null,
   "tiempoFin": null,
   "cronoSegAcum": 105,
   "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520,
-  "_tsRespuestas": 1775274488319,
+  "_tsRespuestas": 0,
   "salidasPestana": 28,
   "_cronoReset": 1775274416233,
-  "_respReset": 1775274034622
+  "_respReset": 1775274548534
 }
