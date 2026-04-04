@@ -1589,18 +1589,22 @@
     }
   ],
   "respuestas": {
-    "1774976647408": "B"
+    "1774976647408": "B",
+    "1774976918127": "B",
+    "1774976946748": "C",
+    "1774977067510": "C",
+    "1774977097590": "A"
   },
   "resultadosEnviados": true,
-  "tsRespuestas": "2026-04-04T03:43:09.028Z",
-  "_ts": 1775274189028,
+  "tsRespuestas": "2026-04-04T03:43:35.989Z",
+  "_ts": 1775274215989,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": null,
   "cronoSegAcum": 0,
   "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520,
-  "_tsRespuestas": 1775274189028,
+  "_tsRespuestas": 1775274215989,
   "salidasPestana": 28,
   "_cronoReset": 1775274075883,
   "_respReset": 1775274034622
