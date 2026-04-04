@@ -1,4 +1,6 @@
 {
+  "_v": 1,
+  "_ts": 1775274416233,
   "pin": "1214",
   "preguntas": [
     {
@@ -1600,8 +1602,6 @@
   },
   "resultadosEnviados": true,
   "tsRespuestas": "2026-04-04T03:45:57.828Z",
-  "_ts": 1775274357829,
-  "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": null,
   "cronoSegAcum": 0,
@@ -1609,6 +1609,6 @@
   "_tsPreguntas": 1775002765520,
   "_tsRespuestas": 1775274357829,
   "salidasPestana": 28,
-  "_cronoReset": 1775274075883,
+  "_cronoReset": 1775274416233,
   "_respReset": 1775274034622
 }
