@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1775273064110,
+  "_ts": 1775273066484,
   "pin": "1214",
   "preguntas": [
     {
@@ -1590,13 +1590,9 @@
       "imagen_desc": ""
     }
   ],
-  "respuestas": {
-    "1775272661221": "C",
-    "1775272051945": "B",
-    "1775272665062": "A"
-  },
-  "resultadosEnviados": true,
-  "tsRespuestas": "2026-04-04T03:18:24.246Z",
+  "respuestas": {},
+  "resultadosEnviados": false,
+  "tsRespuestas": null,
   "tiempoInicio": null,
   "tiempoFin": null,
   "cronoSegAcum": 20063,
