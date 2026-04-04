@@ -1429,17 +1429,17 @@
     "1774991462644": "A",
     "1774977695166": "A",
     "1774977619482": "B",
-    "1774977318820": "B"
+    "1774977318820": "A"
   },
   "resultadosEnviados": true,
-  "tsRespuestas": "2026-04-04T02:35:28.190Z",
-  "_ts": 1775270128190,
+  "tsRespuestas": "2026-04-04T02:35:32.040Z",
+  "_ts": 1775270132040,
   "_v": 1,
   "tiempoInicio": null,
   "tiempoFin": 1775005371849,
-  "cronoSegAcum": 15291,
+  "cronoSegAcum": 15295,
   "cronoInicioSesion": null,
   "_tsPreguntas": 1775002765520,
-  "_tsRespuestas": 1775270128190,
+  "_tsRespuestas": 1775270132040,
   "salidasPestana": 25
 }
