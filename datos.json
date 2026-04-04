@@ -1,6 +1,6 @@
 {
   "_v": 1,
-  "_ts": 1775271984028,
+  "_ts": 1775271988836,
   "pin": "1214",
   "preguntas": [
     {
@@ -1460,7 +1460,33 @@
       "imagen_desc": ""
     },
     {
-      "id": 1775271984028,
+      "id": 1775271979526,
+      "materia": "sociales",
+      "enunciado": "",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "correcta": "A",
+      "imagen_b64": null,
+      "imagen_desc": ""
+    },
+    {
+      "id": 1775271988836,
       "materia": "sociales",
       "enunciado": "",
       "opciones": [
